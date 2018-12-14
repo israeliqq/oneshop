@@ -9,10 +9,10 @@
 				<div class="banner_product_image"><img src="tools/images/banner_product.png" alt=""></div>
 				<div class="col-lg-5 offset-lg-4 fill_height">
 					<div class="banner_content">
-						<h1 class="banner_text">new era of smartphones</h1>
+						<h1 class="banner_text">Nueva era de smartphones</h1>
 						<div class="banner_price"><span>$530</span>$460</div>
-						<div class="banner_product_name">Apple Iphone 6s</div>
-						<div class="button banner_button"><a href="#">Shop Now</a></div>
+						<div class="banner_product_name">Apple Iphone 7</div>
+						<div class="button banner_button"><a href="#">Comprar Ahora</a></div>
 					</div>
 				</div>
 			</div>
@@ -31,8 +31,8 @@
 					<div class="char_item d-flex flex-row align-items-center justify-content-start">
 						<div class="char_icon"><img src="tools/images/char_1.png" alt=""></div>
 						<div class="char_content">
-							<div class="char_title">Free Delivery</div>
-							<div class="char_subtitle">from $50</div>
+							<div class="char_title">Requerir Transporte</div>
+							<div class="char_subtitle">Desde $50</div>
 						</div>
 					</div>
 				</div>
@@ -43,8 +43,8 @@
 					<div class="char_item d-flex flex-row align-items-center justify-content-start">
 						<div class="char_icon"><img src="tools/images/char_2.png" alt=""></div>
 						<div class="char_content">
-							<div class="char_title">Free Delivery</div>
-							<div class="char_subtitle">from $50</div>
+							<div class="char_title">Tramitación</div>
+							<div class="char_subtitle">Desde $50</div>
 						</div>
 					</div>
 				</div>
@@ -55,8 +55,8 @@
 					<div class="char_item d-flex flex-row align-items-center justify-content-start">
 						<div class="char_icon"><img src="tools/images/char_3.png" alt=""></div>
 						<div class="char_content">
-							<div class="char_title">Free Delivery</div>
-							<div class="char_subtitle">from $50</div>
+							<div class="char_title">Pago</div>
+							<div class="char_subtitle">Desde $50</div>
 						</div>
 					</div>
 				</div>
@@ -67,8 +67,8 @@
 					<div class="char_item d-flex flex-row align-items-center justify-content-start">
 						<div class="char_icon"><img src="tools/images/char_4.png" alt=""></div>
 						<div class="char_content">
-							<div class="char_title">Free Delivery</div>
-							<div class="char_subtitle">from $50</div>
+							<div class="char_title">Vende</div>
+							<div class="char_subtitle">Desde $50</div>
 						</div>
 					</div>
 				</div>
@@ -86,7 +86,7 @@
 					<!-- Deals -->
 
 					<div class="deals">
-						<div class="deals_title">Deals of the Week</div>
+						<div class="deals_title">Compras de la semana</div>
 						<div class="deals_slider_container">
 							
 							<!-- Deals Slider -->
@@ -239,9 +239,9 @@
 						<div class="tabbed_container">
 							<div class="tabs">
 								<ul class="clearfix">
-									<li class="active">Featured</li>
-									<li>On Sale</li>
-									<li>Best Rated</li>
+									<li class="active">Destacados</li>
+									<li>Ofertas</li>
+									<li>Mejor Valorados</li>
 								</ul>
 								<div class="tabs_line"><span></span></div>
 							</div>
@@ -264,13 +264,13 @@
 														<input type="radio" name="product_color" style="background:#000000">
 														<input type="radio" name="product_color" style="background:#999999">
 													</div>
-													<button class="product_cart_button">Add to Cart</button>
+													<button class="product_cart_button">Agregar al Carro</button>
 												</div>
 											</div>
 											<div class="product_fav"><i class="fas fa-heart"></i></div>
 											<ul class="product_marks">
 												<li class="product_mark product_discount">-25%</li>
-												<li class="product_mark product_new">new</li>
+												<li class="product_mark product_new">Nuevo</li>
 											</ul>
 										</div>
 									</div>
@@ -289,13 +289,13 @@
 														<input type="radio" name="product_color" style="background:#000000">
 														<input type="radio" name="product_color" style="background:#999999">
 													</div>
-													<button class="product_cart_button active">Add to Cart</button>
+													<button class="product_cart_button active">Agregar al Carro</button>
 												</div>
 											</div>
 											<div class="product_fav"><i class="fas fa-heart"></i></div>
 											<ul class="product_marks">
 												<li class="product_mark product_discount"></li>
-												<li class="product_mark product_new">new</li>
+												<li class="product_mark product_new">Nuevo</li>
 											</ul>
 										</div>
 									</div>
@@ -314,13 +314,13 @@
 														<input type="radio" name="product_color" style="background:#000000">
 														<input type="radio" name="product_color" style="background:#999999">
 													</div>
-													<button class="product_cart_button">Add to Cart</button>
+													<button class="product_cart_button">Agregar al Carro</button>
 												</div>
 											</div>
 											<div class="product_fav"><i class="fas fa-heart"></i></div>
 											<ul class="product_marks">
 												<li class="product_mark product_discount"></li>
-												<li class="product_mark product_new">new</li>
+												<li class="product_mark product_new">Nuevo</li>
 											</ul>
 										</div>
 									</div>
@@ -339,13 +339,13 @@
 														<input type="radio" name="product_color" style="background:#000000">
 														<input type="radio" name="product_color" style="background:#999999">
 													</div>
-													<button class="product_cart_button">Add to Cart</button>
+													<button class="product_cart_button">Agregar al Carro</button>
 												</div>
 											</div>
 											<div class="product_fav"><i class="fas fa-heart"></i></div>
 											<ul class="product_marks">
 												<li class="product_mark product_discount">-25%</li>
-												<li class="product_mark product_new">new</li>
+												<li class="product_mark product_new">Nuevo</li>
 											</ul>
 										</div>
 									</div>
@@ -364,13 +364,13 @@
 														<input type="radio" name="product_color" style="background:#000000">
 														<input type="radio" name="product_color" style="background:#999999">
 													</div>
-													<button class="product_cart_button">Add to Cart</button>
+													<button class="product_cart_button">Agregar al Carro</button>
 												</div>
 											</div>
 											<div class="product_fav"><i class="fas fa-heart"></i></div>
 											<ul class="product_marks">
 												<li class="product_mark product_discount"></li>
-												<li class="product_mark product_new">new</li>
+												<li class="product_mark product_new">Nuevo</li>
 											</ul>
 										</div>
 									</div>
@@ -389,13 +389,13 @@
 														<input type="radio" name="product_color" style="background:#000000">
 														<input type="radio" name="product_color" style="background:#999999">
 													</div>
-													<button class="product_cart_button">Add to Cart</button>
+													<button class="product_cart_button">Agregar al Carro</button>
 												</div>
 											</div>
 											<div class="product_fav"><i class="fas fa-heart"></i></div>
 											<ul class="product_marks">
 												<li class="product_mark product_discount"></li>
-												<li class="product_mark product_new">new</li>
+												<li class="product_mark product_new">Nuevo</li>
 											</ul>
 										</div>
 									</div>
@@ -414,13 +414,13 @@
 														<input type="radio" name="product_color" style="background:#000000">
 														<input type="radio" name="product_color" style="background:#999999">
 													</div>
-													<button class="product_cart_button">Add to Cart</button>
+													<button class="product_cart_button">Agregar al Carro</button>
 												</div>
 											</div>
 											<div class="product_fav"><i class="fas fa-heart"></i></div>
 											<ul class="product_marks">
 												<li class="product_mark product_discount">-25%</li>
-												<li class="product_mark product_new">new</li>
+												<li class="product_mark product_new">Nuevo</li>
 											</ul>
 										</div>
 									</div>
@@ -439,13 +439,13 @@
 														<input type="radio" name="product_color" style="background:#000000">
 														<input type="radio" name="product_color" style="background:#999999">
 													</div>
-													<button class="product_cart_button">Add to Cart</button>
+													<button class="product_cart_button">Agregar al Carro</button>
 												</div>
 											</div>
 											<div class="product_fav"><i class="fas fa-heart"></i></div>
 											<ul class="product_marks">
 												<li class="product_mark product_discount"></li>
-												<li class="product_mark product_new">new</li>
+												<li class="product_mark product_new">Nuevo</li>
 											</ul>
 										</div>
 									</div>
@@ -464,13 +464,13 @@
 														<input type="radio" name="product_color" style="background:#000000">
 														<input type="radio" name="product_color" style="background:#999999">
 													</div>
-													<button class="product_cart_button">Add to Cart</button>
+													<button class="product_cart_button">Agregar al Carro</button>
 												</div>
 											</div>
 											<div class="product_fav"><i class="fas fa-heart"></i></div>
 											<ul class="product_marks">
 												<li class="product_mark product_discount"></li>
-												<li class="product_mark product_new">new</li>
+												<li class="product_mark product_new">Nuevo</li>
 											</ul>
 										</div>
 									</div>
@@ -489,13 +489,13 @@
 														<input type="radio" name="product_color" style="background:#000000">
 														<input type="radio" name="product_color" style="background:#999999">
 													</div>
-													<button class="product_cart_button">Add to Cart</button>
+													<button class="product_cart_button">Agregar al Carro</button>
 												</div>
 											</div>
 											<div class="product_fav"><i class="fas fa-heart"></i></div>
 											<ul class="product_marks">
 												<li class="product_mark product_discount"></li>
-												<li class="product_mark product_new">new</li>
+												<li class="product_mark product_new">Nuevo</li>
 											</ul>
 										</div>
 									</div>
@@ -514,13 +514,13 @@
 														<input type="radio" name="product_color" style="background:#000000">
 														<input type="radio" name="product_color" style="background:#999999">
 													</div>
-													<button class="product_cart_button">Add to Cart</button>
+													<button class="product_cart_button">Agregar al Carro</button>
 												</div>
 											</div>
 											<div class="product_fav"><i class="fas fa-heart"></i></div>
 											<ul class="product_marks">
 												<li class="product_mark product_discount"></li>
-												<li class="product_mark product_new">new</li>
+												<li class="product_mark product_new">Nuevo</li>
 											</ul>
 										</div>
 									</div>
@@ -539,13 +539,13 @@
 														<input type="radio" name="product_color" style="background:#000000">
 														<input type="radio" name="product_color" style="background:#999999">
 													</div>
-													<button class="product_cart_button">Add to Cart</button>
+													<button class="product_cart_button">Agregar al Carro</button>
 												</div>
 											</div>
 											<div class="product_fav"><i class="fas fa-heart"></i></div>
 											<ul class="product_marks">
 												<li class="product_mark product_discount"></li>
-												<li class="product_mark product_new">new</li>
+												<li class="product_mark product_new">Nuevo</li>
 											</ul>
 										</div>
 									</div>
@@ -564,13 +564,13 @@
 														<input type="radio" name="product_color" style="background:#000000">
 														<input type="radio" name="product_color" style="background:#999999">
 													</div>
-													<button class="product_cart_button">Add to Cart</button>
+													<button class="product_cart_button">Agregar al Carro</button>
 												</div>
 											</div>
 											<div class="product_fav"><i class="fas fa-heart"></i></div>
 											<ul class="product_marks">
 												<li class="product_mark product_discount"></li>
-												<li class="product_mark product_new">new</li>
+												<li class="product_mark product_new">Nuevo</li>
 											</ul>
 										</div>
 									</div>
@@ -589,13 +589,13 @@
 														<input type="radio" name="product_color" style="background:#000000">
 														<input type="radio" name="product_color" style="background:#999999">
 													</div>
-													<button class="product_cart_button">Add to Cart</button>
+													<button class="product_cart_button">Agregar al Carro</button>
 												</div>
 											</div>
 											<div class="product_fav"><i class="fas fa-heart"></i></div>
 											<ul class="product_marks">
 												<li class="product_mark product_discount"></li>
-												<li class="product_mark product_new">new</li>
+												<li class="product_mark product_new">Nuevo</li>
 											</ul>
 										</div>
 									</div>
@@ -614,13 +614,13 @@
 														<input type="radio" name="product_color" style="background:#000000">
 														<input type="radio" name="product_color" style="background:#999999">
 													</div>
-													<button class="product_cart_button">Add to Cart</button>
+													<button class="product_cart_button">Agregar al Carro</button>
 												</div>
 											</div>
 											<div class="product_fav"><i class="fas fa-heart"></i></div>
 											<ul class="product_marks">
 												<li class="product_mark product_discount"></li>
-												<li class="product_mark product_new">new</li>
+												<li class="product_mark product_new">Nuevo</li>
 											</ul>
 										</div>
 									</div>
@@ -639,13 +639,13 @@
 														<input type="radio" name="product_color" style="background:#000000">
 														<input type="radio" name="product_color" style="background:#999999">
 													</div>
-													<button class="product_cart_button">Add to Cart</button>
+													<button class="product_cart_button">Agregar al Carro</button>
 												</div>
 											</div>
 											<div class="product_fav"><i class="fas fa-heart"></i></div>
 											<ul class="product_marks">
 												<li class="product_mark product_discount"></li>
-												<li class="product_mark product_new">new</li>
+												<li class="product_mark product_new">Nuevo</li>
 											</ul>
 										</div>
 									</div>
@@ -673,13 +673,13 @@
 														<input type="radio" name="product_color" style="background:#000000">
 														<input type="radio" name="product_color" style="background:#999999">
 													</div>
-													<button class="product_cart_button">Add to Cart</button>
+													<button class="product_cart_button">Agregar al Carro</button>
 												</div>
 											</div>
 											<div class="product_fav"><i class="fas fa-heart"></i></div>
 											<ul class="product_marks">
 												<li class="product_mark product_discount">-25%</li>
-												<li class="product_mark product_new">new</li>
+												<li class="product_mark product_new">Nuevo</li>
 											</ul>
 										</div>
 									</div>
@@ -698,13 +698,13 @@
 														<input type="radio" name="product_color" style="background:#000000">
 														<input type="radio" name="product_color" style="background:#999999">
 													</div>
-													<button class="product_cart_button active">Add to Cart</button>
+													<button class="product_cart_button active">Agregar al Carro</button>
 												</div>
 											</div>
 											<div class="product_fav"><i class="fas fa-heart"></i></div>
 											<ul class="product_marks">
 												<li class="product_mark product_discount"></li>
-												<li class="product_mark product_new">new</li>
+												<li class="product_mark product_new">Nuevo</li>
 											</ul>
 										</div>
 									</div>
@@ -723,13 +723,13 @@
 														<input type="radio" name="product_color" style="background:#000000">
 														<input type="radio" name="product_color" style="background:#999999">
 													</div>
-													<button class="product_cart_button">Add to Cart</button>
+													<button class="product_cart_button">Agregar al Carro</button>
 												</div>
 											</div>
 											<div class="product_fav"><i class="fas fa-heart"></i></div>
 											<ul class="product_marks">
 												<li class="product_mark product_discount"></li>
-												<li class="product_mark product_new">new</li>
+												<li class="product_mark product_new">Nuevo</li>
 											</ul>
 										</div>
 									</div>
@@ -748,13 +748,13 @@
 														<input type="radio" name="product_color" style="background:#000000">
 														<input type="radio" name="product_color" style="background:#999999">
 													</div>
-													<button class="product_cart_button">Add to Cart</button>
+													<button class="product_cart_button">Agregar al Carro</button>
 												</div>
 											</div>
 											<div class="product_fav"><i class="fas fa-heart"></i></div>
 											<ul class="product_marks">
 												<li class="product_mark product_discount">-25%</li>
-												<li class="product_mark product_new">new</li>
+												<li class="product_mark product_new">Nuevo</li>
 											</ul>
 										</div>
 									</div>
@@ -773,13 +773,13 @@
 														<input type="radio" name="product_color" style="background:#000000">
 														<input type="radio" name="product_color" style="background:#999999">
 													</div>
-													<button class="product_cart_button">Add to Cart</button>
+													<button class="product_cart_button">Agregar al Carro</button>
 												</div>
 											</div>
 											<div class="product_fav"><i class="fas fa-heart"></i></div>
 											<ul class="product_marks">
 												<li class="product_mark product_discount"></li>
-												<li class="product_mark product_new">new</li>
+												<li class="product_mark product_new">Nuevo</li>
 											</ul>
 										</div>
 									</div>
@@ -798,13 +798,13 @@
 														<input type="radio" name="product_color" style="background:#000000">
 														<input type="radio" name="product_color" style="background:#999999">
 													</div>
-													<button class="product_cart_button">Add to Cart</button>
+													<button class="product_cart_button">Agregar al Carro</button>
 												</div>
 											</div>
 											<div class="product_fav"><i class="fas fa-heart"></i></div>
 											<ul class="product_marks">
 												<li class="product_mark product_discount"></li>
-												<li class="product_mark product_new">new</li>
+												<li class="product_mark product_new">Nuevo</li>
 											</ul>
 										</div>
 									</div>
@@ -823,13 +823,13 @@
 														<input type="radio" name="product_color" style="background:#000000">
 														<input type="radio" name="product_color" style="background:#999999">
 													</div>
-													<button class="product_cart_button">Add to Cart</button>
+													<button class="product_cart_button">Agregar al Carro</button>
 												</div>
 											</div>
 											<div class="product_fav"><i class="fas fa-heart"></i></div>
 											<ul class="product_marks">
 												<li class="product_mark product_discount">-25%</li>
-												<li class="product_mark product_new">new</li>
+												<li class="product_mark product_new">Nuevo</li>
 											</ul>
 										</div>
 									</div>
@@ -848,13 +848,13 @@
 														<input type="radio" name="product_color" style="background:#000000">
 														<input type="radio" name="product_color" style="background:#999999">
 													</div>
-													<button class="product_cart_button">Add to Cart</button>
+													<button class="product_cart_button">Agregar al Carro</button>
 												</div>
 											</div>
 											<div class="product_fav"><i class="fas fa-heart"></i></div>
 											<ul class="product_marks">
 												<li class="product_mark product_discount"></li>
-												<li class="product_mark product_new">new</li>
+												<li class="product_mark product_new">Nuevo</li>
 											</ul>
 										</div>
 									</div>
@@ -873,13 +873,13 @@
 														<input type="radio" name="product_color" style="background:#000000">
 														<input type="radio" name="product_color" style="background:#999999">
 													</div>
-													<button class="product_cart_button">Add to Cart</button>
+													<button class="product_cart_button">Agregar al Carro</button>
 												</div>
 											</div>
 											<div class="product_fav"><i class="fas fa-heart"></i></div>
 											<ul class="product_marks">
 												<li class="product_mark product_discount"></li>
-												<li class="product_mark product_new">new</li>
+												<li class="product_mark product_new">Nuevo</li>
 											</ul>
 										</div>
 									</div>
@@ -898,13 +898,13 @@
 														<input type="radio" name="product_color" style="background:#000000">
 														<input type="radio" name="product_color" style="background:#999999">
 													</div>
-													<button class="product_cart_button">Add to Cart</button>
+													<button class="product_cart_button">Agregar al Carro</button>
 												</div>
 											</div>
 											<div class="product_fav"><i class="fas fa-heart"></i></div>
 											<ul class="product_marks">
 												<li class="product_mark product_discount"></li>
-												<li class="product_mark product_new">new</li>
+												<li class="product_mark product_new">Nuevo</li>
 											</ul>
 										</div>
 									</div>
@@ -923,13 +923,13 @@
 														<input type="radio" name="product_color" style="background:#000000">
 														<input type="radio" name="product_color" style="background:#999999">
 													</div>
-													<button class="product_cart_button">Add to Cart</button>
+													<button class="product_cart_button">Agregar al Carro</button>
 												</div>
 											</div>
 											<div class="product_fav"><i class="fas fa-heart"></i></div>
 											<ul class="product_marks">
 												<li class="product_mark product_discount"></li>
-												<li class="product_mark product_new">new</li>
+												<li class="product_mark product_new">Nuevo</li>
 											</ul>
 										</div>
 									</div>
@@ -948,13 +948,13 @@
 														<input type="radio" name="product_color" style="background:#000000">
 														<input type="radio" name="product_color" style="background:#999999">
 													</div>
-													<button class="product_cart_button">Add to Cart</button>
+													<button class="product_cart_button">Agregar al Carro</button>
 												</div>
 											</div>
 											<div class="product_fav"><i class="fas fa-heart"></i></div>
 											<ul class="product_marks">
 												<li class="product_mark product_discount"></li>
-												<li class="product_mark product_new">new</li>
+												<li class="product_mark product_new">Nuevo</li>
 											</ul>
 										</div>
 									</div>
@@ -973,13 +973,13 @@
 														<input type="radio" name="product_color" style="background:#000000">
 														<input type="radio" name="product_color" style="background:#999999">
 													</div>
-													<button class="product_cart_button">Add to Cart</button>
+													<button class="product_cart_button">Agregar al Carro</button>
 												</div>
 											</div>
 											<div class="product_fav"><i class="fas fa-heart"></i></div>
 											<ul class="product_marks">
 												<li class="product_mark product_discount"></li>
-												<li class="product_mark product_new">new</li>
+												<li class="product_mark product_new">Nuevo</li>
 											</ul>
 										</div>
 									</div>
@@ -998,13 +998,13 @@
 														<input type="radio" name="product_color" style="background:#000000">
 														<input type="radio" name="product_color" style="background:#999999">
 													</div>
-													<button class="product_cart_button">Add to Cart</button>
+													<button class="product_cart_button">Agregar al Carro</button>
 												</div>
 											</div>
 											<div class="product_fav"><i class="fas fa-heart"></i></div>
 											<ul class="product_marks">
 												<li class="product_mark product_discount"></li>
-												<li class="product_mark product_new">new</li>
+												<li class="product_mark product_new">Nuevo</li>
 											</ul>
 										</div>
 									</div>
@@ -1023,13 +1023,13 @@
 														<input type="radio" name="product_color" style="background:#000000">
 														<input type="radio" name="product_color" style="background:#999999">
 													</div>
-													<button class="product_cart_button">Add to Cart</button>
+													<button class="product_cart_button">Agregar al Carro</button>
 												</div>
 											</div>
 											<div class="product_fav"><i class="fas fa-heart"></i></div>
 											<ul class="product_marks">
 												<li class="product_mark product_discount"></li>
-												<li class="product_mark product_new">new</li>
+												<li class="product_mark product_new">Nuevo</li>
 											</ul>
 										</div>
 									</div>
@@ -1048,13 +1048,13 @@
 														<input type="radio" name="product_color" style="background:#000000">
 														<input type="radio" name="product_color" style="background:#999999">
 													</div>
-													<button class="product_cart_button">Add to Cart</button>
+													<button class="product_cart_button">Agregar al Carro</button>
 												</div>
 											</div>
 											<div class="product_fav"><i class="fas fa-heart"></i></div>
 											<ul class="product_marks">
 												<li class="product_mark product_discount"></li>
-												<li class="product_mark product_new">new</li>
+												<li class="product_mark product_new">Nuevo</li>
 											</ul>
 										</div>
 									</div>
@@ -1082,13 +1082,13 @@
 														<input type="radio" name="product_color" style="background:#000000">
 														<input type="radio" name="product_color" style="background:#999999">
 													</div>
-													<button class="product_cart_button">Add to Cart</button>
+													<button class="product_cart_button">Agregar al Carro</button>
 												</div>
 											</div>
 											<div class="product_fav"><i class="fas fa-heart"></i></div>
 											<ul class="product_marks">
 												<li class="product_mark product_discount">-25%</li>
-												<li class="product_mark product_new">new</li>
+												<li class="product_mark product_new">Nuevo</li>
 											</ul>
 										</div>
 									</div>
@@ -1107,13 +1107,13 @@
 														<input type="radio" name="product_color" style="background:#000000">
 														<input type="radio" name="product_color" style="background:#999999">
 													</div>
-													<button class="product_cart_button active">Add to Cart</button>
+													<button class="product_cart_button active">Agregar al Carro</button>
 												</div>
 											</div>
 											<div class="product_fav"><i class="fas fa-heart"></i></div>
 											<ul class="product_marks">
 												<li class="product_mark product_discount"></li>
-												<li class="product_mark product_new">new</li>
+												<li class="product_mark product_new">Nuevo</li>
 											</ul>
 										</div>
 									</div>
@@ -1132,13 +1132,13 @@
 														<input type="radio" name="product_color" style="background:#000000">
 														<input type="radio" name="product_color" style="background:#999999">
 													</div>
-													<button class="product_cart_button">Add to Cart</button>
+													<button class="product_cart_button">Agregar al Carro</button>
 												</div>
 											</div>
 											<div class="product_fav"><i class="fas fa-heart"></i></div>
 											<ul class="product_marks">
 												<li class="product_mark product_discount"></li>
-												<li class="product_mark product_new">new</li>
+												<li class="product_mark product_new">Nuevo</li>
 											</ul>
 										</div>
 									</div>
@@ -1157,13 +1157,13 @@
 														<input type="radio" name="product_color" style="background:#000000">
 														<input type="radio" name="product_color" style="background:#999999">
 													</div>
-													<button class="product_cart_button">Add to Cart</button>
+													<button class="product_cart_button">Agregar al Carro</button>
 												</div>
 											</div>
 											<div class="product_fav"><i class="fas fa-heart"></i></div>
 											<ul class="product_marks">
 												<li class="product_mark product_discount">-25%</li>
-												<li class="product_mark product_new">new</li>
+												<li class="product_mark product_new">Nuevo</li>
 											</ul>
 										</div>
 									</div>
@@ -1182,13 +1182,13 @@
 														<input type="radio" name="product_color" style="background:#000000">
 														<input type="radio" name="product_color" style="background:#999999">
 													</div>
-													<button class="product_cart_button">Add to Cart</button>
+													<button class="product_cart_button">Agregar al Carro</button>
 												</div>
 											</div>
 											<div class="product_fav"><i class="fas fa-heart"></i></div>
 											<ul class="product_marks">
 												<li class="product_mark product_discount"></li>
-												<li class="product_mark product_new">new</li>
+												<li class="product_mark product_new">Nuevo</li>
 											</ul>
 										</div>
 									</div>
@@ -1207,13 +1207,13 @@
 														<input type="radio" name="product_color" style="background:#000000">
 														<input type="radio" name="product_color" style="background:#999999">
 													</div>
-													<button class="product_cart_button">Add to Cart</button>
+													<button class="product_cart_button">Agregar al Carro</button>
 												</div>
 											</div>
 											<div class="product_fav"><i class="fas fa-heart"></i></div>
 											<ul class="product_marks">
 												<li class="product_mark product_discount"></li>
-												<li class="product_mark product_new">new</li>
+												<li class="product_mark product_new">Nuevo</li>
 											</ul>
 										</div>
 									</div>
@@ -1232,13 +1232,13 @@
 														<input type="radio" name="product_color" style="background:#000000">
 														<input type="radio" name="product_color" style="background:#999999">
 													</div>
-													<button class="product_cart_button">Add to Cart</button>
+													<button class="product_cart_button">Agregar al Carro</button>
 												</div>
 											</div>
 											<div class="product_fav"><i class="fas fa-heart"></i></div>
 											<ul class="product_marks">
 												<li class="product_mark product_discount">-25%</li>
-												<li class="product_mark product_new">new</li>
+												<li class="product_mark product_new">Nuevo</li>
 											</ul>
 										</div>
 									</div>
@@ -1257,13 +1257,13 @@
 														<input type="radio" name="product_color" style="background:#000000">
 														<input type="radio" name="product_color" style="background:#999999">
 													</div>
-													<button class="product_cart_button">Add to Cart</button>
+													<button class="product_cart_button">Agregar al Carro</button>
 												</div>
 											</div>
 											<div class="product_fav"><i class="fas fa-heart"></i></div>
 											<ul class="product_marks">
 												<li class="product_mark product_discount"></li>
-												<li class="product_mark product_new">new</li>
+												<li class="product_mark product_new">Nuevo</li>
 											</ul>
 										</div>
 									</div>
@@ -1282,13 +1282,13 @@
 														<input type="radio" name="product_color" style="background:#000000">
 														<input type="radio" name="product_color" style="background:#999999">
 													</div>
-													<button class="product_cart_button">Add to Cart</button>
+													<button class="product_cart_button">Agregar al Carro</button>
 												</div>
 											</div>
 											<div class="product_fav"><i class="fas fa-heart"></i></div>
 											<ul class="product_marks">
 												<li class="product_mark product_discount"></li>
-												<li class="product_mark product_new">new</li>
+												<li class="product_mark product_new">Nuevo</li>
 											</ul>
 										</div>
 									</div>
@@ -1307,13 +1307,13 @@
 														<input type="radio" name="product_color" style="background:#000000">
 														<input type="radio" name="product_color" style="background:#999999">
 													</div>
-													<button class="product_cart_button">Add to Cart</button>
+													<button class="product_cart_button">Agregar al Carro</button>
 												</div>
 											</div>
 											<div class="product_fav"><i class="fas fa-heart"></i></div>
 											<ul class="product_marks">
 												<li class="product_mark product_discount"></li>
-												<li class="product_mark product_new">new</li>
+												<li class="product_mark product_new">Nuevo</li>
 											</ul>
 										</div>
 									</div>
@@ -1332,13 +1332,13 @@
 														<input type="radio" name="product_color" style="background:#000000">
 														<input type="radio" name="product_color" style="background:#999999">
 													</div>
-													<button class="product_cart_button">Add to Cart</button>
+													<button class="product_cart_button">Agregar al Carro</button>
 												</div>
 											</div>
 											<div class="product_fav"><i class="fas fa-heart"></i></div>
 											<ul class="product_marks">
 												<li class="product_mark product_discount"></li>
-												<li class="product_mark product_new">new</li>
+												<li class="product_mark product_new">Nuevo</li>
 											</ul>
 										</div>
 									</div>
@@ -1357,13 +1357,13 @@
 														<input type="radio" name="product_color" style="background:#000000">
 														<input type="radio" name="product_color" style="background:#999999">
 													</div>
-													<button class="product_cart_button">Add to Cart</button>
+													<button class="product_cart_button">Agregar al Carro</button>
 												</div>
 											</div>
 											<div class="product_fav"><i class="fas fa-heart"></i></div>
 											<ul class="product_marks">
 												<li class="product_mark product_discount"></li>
-												<li class="product_mark product_new">new</li>
+												<li class="product_mark product_new">Nuevo</li>
 											</ul>
 										</div>
 									</div>
@@ -1382,13 +1382,13 @@
 														<input type="radio" name="product_color" style="background:#000000">
 														<input type="radio" name="product_color" style="background:#999999">
 													</div>
-													<button class="product_cart_button">Add to Cart</button>
+													<button class="product_cart_button">Agregar al Carro</button>
 												</div>
 											</div>
 											<div class="product_fav"><i class="fas fa-heart"></i></div>
 											<ul class="product_marks">
 												<li class="product_mark product_discount"></li>
-												<li class="product_mark product_new">new</li>
+												<li class="product_mark product_new">Nuevo</li>
 											</ul>
 										</div>
 									</div>
@@ -1407,13 +1407,13 @@
 														<input type="radio" name="product_color" style="background:#000000">
 														<input type="radio" name="product_color" style="background:#999999">
 													</div>
-													<button class="product_cart_button">Add to Cart</button>
+													<button class="product_cart_button">Agregar al Carro</button>
 												</div>
 											</div>
 											<div class="product_fav"><i class="fas fa-heart"></i></div>
 											<ul class="product_marks">
 												<li class="product_mark product_discount"></li>
-												<li class="product_mark product_new">new</li>
+												<li class="product_mark product_new">Nuevo</li>
 											</ul>
 										</div>
 									</div>
@@ -1432,13 +1432,13 @@
 														<input type="radio" name="product_color" style="background:#000000">
 														<input type="radio" name="product_color" style="background:#999999">
 													</div>
-													<button class="product_cart_button">Add to Cart</button>
+													<button class="product_cart_button">Agregar al Carro</button>
 												</div>
 											</div>
 											<div class="product_fav"><i class="fas fa-heart"></i></div>
 											<ul class="product_marks">
 												<li class="product_mark product_discount"></li>
-												<li class="product_mark product_new">new</li>
+												<li class="product_mark product_new">Nuevo</li>
 											</ul>
 										</div>
 									</div>
@@ -1457,13 +1457,13 @@
 														<input type="radio" name="product_color" style="background:#000000">
 														<input type="radio" name="product_color" style="background:#999999">
 													</div>
-													<button class="product_cart_button">Add to Cart</button>
+													<button class="product_cart_button">Agregar al Carro</button>
 												</div>
 											</div>
 											<div class="product_fav"><i class="fas fa-heart"></i></div>
 											<ul class="product_marks">
 												<li class="product_mark product_discount"></li>
-												<li class="product_mark product_new">new</li>
+												<li class="product_mark product_new">Nuevo</li>
 											</ul>
 										</div>
 									</div>
@@ -1488,11 +1488,11 @@
 				<div class="col">
 					<div class="tabbed_container">
 						<div class="tabs clearfix tabs-right">
-							<div class="new_arrivals_title">Hot New Arrivals</div>
+							<div class="new_arrivals_title">Nuevas Publicasiones</div>
 							<ul class="clearfix">
-								<li class="active">Featured</li>
-								<li>Audio & Video</li>
-								<li>Laptops & Computers</li>
+								<li class="active">Destacados</li>
+								<li>Mejor Valorados</li>
+								<li>Nuevas Publicaciones</li>
 							</ul>
 							<div class="tabs_line"><span></span></div>
 						</div>
@@ -1517,13 +1517,13 @@
 															<input type="radio" name="product_color" style="background:#000000">
 															<input type="radio" name="product_color" style="background:#999999">
 														</div>
-														<button class="product_cart_button">Add to Cart</button>
+														<button class="product_cart_button">Agregar al Carro</button>
 													</div>
 												</div>
 												<div class="product_fav"><i class="fas fa-heart"></i></div>
 												<ul class="product_marks">
 													<li class="product_mark product_discount">-25%</li>
-													<li class="product_mark product_new">new</li>
+													<li class="product_mark product_new">Nuevo</li>
 												</ul>
 											</div>
 										</div>
@@ -1542,13 +1542,13 @@
 															<input type="radio" name="product_color" style="background:#000000">
 															<input type="radio" name="product_color" style="background:#999999">
 														</div>
-														<button class="product_cart_button active">Add to Cart</button>
+														<button class="product_cart_button active">Agregar al Carro</button>
 													</div>
 												</div>
 												<div class="product_fav"><i class="fas fa-heart"></i></div>
 												<ul class="product_marks">
 													<li class="product_mark product_discount"></li>
-													<li class="product_mark product_new">new</li>
+													<li class="product_mark product_new">Nuevo</li>
 												</ul>
 											</div>
 										</div>
@@ -1567,13 +1567,13 @@
 															<input type="radio" name="product_color" style="background:#000000">
 															<input type="radio" name="product_color" style="background:#999999">
 														</div>
-														<button class="product_cart_button">Add to Cart</button>
+														<button class="product_cart_button">Agregar al Carro</button>
 													</div>
 												</div>
 												<div class="product_fav"><i class="fas fa-heart"></i></div>
 												<ul class="product_marks">
 													<li class="product_mark product_discount"></li>
-													<li class="product_mark product_new">new</li>
+													<li class="product_mark product_new">Nuevo</li>
 												</ul>
 											</div>
 										</div>
@@ -1592,13 +1592,13 @@
 															<input type="radio" name="product_color" style="background:#000000">
 															<input type="radio" name="product_color" style="background:#999999">
 														</div>
-														<button class="product_cart_button">Add to Cart</button>
+														<button class="product_cart_button">Agregar al Carro</button>
 													</div>
 												</div>
 												<div class="product_fav"><i class="fas fa-heart"></i></div>
 												<ul class="product_marks">
 													<li class="product_mark product_discount"></li>
-													<li class="product_mark product_new">new</li>
+													<li class="product_mark product_new">Nuevo</li>
 												</ul>
 											</div>
 										</div>
@@ -1617,13 +1617,13 @@
 															<input type="radio" name="product_color" style="background:#000000">
 															<input type="radio" name="product_color" style="background:#999999">
 														</div>
-														<button class="product_cart_button">Add to Cart</button>
+														<button class="product_cart_button">Agregar al Carro</button>
 													</div>
 												</div>
 												<div class="product_fav"><i class="fas fa-heart"></i></div>
 												<ul class="product_marks">
 													<li class="product_mark product_discount"></li>
-													<li class="product_mark product_new">new</li>
+													<li class="product_mark product_new">Nuevo</li>
 												</ul>
 											</div>
 										</div>
@@ -1642,13 +1642,13 @@
 															<input type="radio" name="product_color" style="background:#000000">
 															<input type="radio" name="product_color" style="background:#999999">
 														</div>
-														<button class="product_cart_button">Add to Cart</button>
+														<button class="product_cart_button">Agregar al Carro</button>
 													</div>
 												</div>
 												<div class="product_fav"><i class="fas fa-heart"></i></div>
 												<ul class="product_marks">
 													<li class="product_mark product_discount"></li>
-													<li class="product_mark product_new">new</li>
+													<li class="product_mark product_new">Nuevo</li>
 												</ul>
 											</div>
 										</div>
@@ -1667,13 +1667,13 @@
 															<input type="radio" name="product_color" style="background:#000000">
 															<input type="radio" name="product_color" style="background:#999999">
 														</div>
-														<button class="product_cart_button">Add to Cart</button>
+														<button class="product_cart_button">Agregar al Carro</button>
 													</div>
 												</div>
 												<div class="product_fav"><i class="fas fa-heart"></i></div>
 												<ul class="product_marks">
 													<li class="product_mark product_discount">-25%</li>
-													<li class="product_mark product_new">new</li>
+													<li class="product_mark product_new">Nuevo</li>
 												</ul>
 											</div>
 										</div>
@@ -1692,13 +1692,13 @@
 															<input type="radio" name="product_color" style="background:#000000">
 															<input type="radio" name="product_color" style="background:#999999">
 														</div>
-														<button class="product_cart_button">Add to Cart</button>
+														<button class="product_cart_button">Agregar al Carro</button>
 													</div>
 												</div>
 												<div class="product_fav"><i class="fas fa-heart"></i></div>
 												<ul class="product_marks">
 													<li class="product_mark product_discount"></li>
-													<li class="product_mark product_new">new</li>
+													<li class="product_mark product_new">Nuevo</li>
 												</ul>
 											</div>
 										</div>
@@ -1717,13 +1717,13 @@
 															<input type="radio" name="product_color" style="background:#000000">
 															<input type="radio" name="product_color" style="background:#999999">
 														</div>
-														<button class="product_cart_button">Add to Cart</button>
+														<button class="product_cart_button">Agregar al Carro</button>
 													</div>
 												</div>
 												<div class="product_fav"><i class="fas fa-heart"></i></div>
 												<ul class="product_marks">
 													<li class="product_mark product_discount"></li>
-													<li class="product_mark product_new">new</li>
+													<li class="product_mark product_new">Nuevo</li>
 												</ul>
 											</div>
 										</div>
@@ -1742,13 +1742,13 @@
 															<input type="radio" name="product_color" style="background:#000000">
 															<input type="radio" name="product_color" style="background:#999999">
 														</div>
-														<button class="product_cart_button">Add to Cart</button>
+														<button class="product_cart_button">Agregar al Carro</button>
 													</div>
 												</div>
 												<div class="product_fav"><i class="fas fa-heart"></i></div>
 												<ul class="product_marks">
 													<li class="product_mark product_discount"></li>
-													<li class="product_mark product_new">new</li>
+													<li class="product_mark product_new">Nuevo</li>
 												</ul>
 											</div>
 										</div>
@@ -1767,13 +1767,13 @@
 															<input type="radio" name="product_color" style="background:#000000">
 															<input type="radio" name="product_color" style="background:#999999">
 														</div>
-														<button class="product_cart_button">Add to Cart</button>
+														<button class="product_cart_button">Agregar al Carro</button>
 													</div>
 												</div>
 												<div class="product_fav"><i class="fas fa-heart"></i></div>
 												<ul class="product_marks">
 													<li class="product_mark product_discount"></li>
-													<li class="product_mark product_new">new</li>
+													<li class="product_mark product_new">Nuevo</li>
 												</ul>
 											</div>
 										</div>
@@ -1792,13 +1792,13 @@
 															<input type="radio" name="product_color" style="background:#000000">
 															<input type="radio" name="product_color" style="background:#999999">
 														</div>
-														<button class="product_cart_button">Add to Cart</button>
+														<button class="product_cart_button">Agregar al Carro</button>
 													</div>
 												</div>
 												<div class="product_fav"><i class="fas fa-heart"></i></div>
 												<ul class="product_marks">
 													<li class="product_mark product_discount"></li>
-													<li class="product_mark product_new">new</li>
+													<li class="product_mark product_new">Nuevo</li>
 												</ul>
 											</div>
 										</div>
@@ -1817,13 +1817,13 @@
 															<input type="radio" name="product_color" style="background:#000000">
 															<input type="radio" name="product_color" style="background:#999999">
 														</div>
-														<button class="product_cart_button">Add to Cart</button>
+														<button class="product_cart_button">Agregar al Carro</button>
 													</div>
 												</div>
 												<div class="product_fav"><i class="fas fa-heart"></i></div>
 												<ul class="product_marks">
 													<li class="product_mark product_discount"></li>
-													<li class="product_mark product_new">new</li>
+													<li class="product_mark product_new">Nuevo</li>
 												</ul>
 											</div>
 										</div>
@@ -1842,13 +1842,13 @@
 															<input type="radio" name="product_color" style="background:#000000">
 															<input type="radio" name="product_color" style="background:#999999">
 														</div>
-														<button class="product_cart_button">Add to Cart</button>
+														<button class="product_cart_button">Agregar al Carro</button>
 													</div>
 												</div>
 												<div class="product_fav"><i class="fas fa-heart"></i></div>
 												<ul class="product_marks">
 													<li class="product_mark product_discount"></li>
-													<li class="product_mark product_new">new</li>
+													<li class="product_mark product_new">Nuevo</li>
 												</ul>
 											</div>
 										</div>
@@ -1867,13 +1867,13 @@
 															<input type="radio" name="product_color" style="background:#000000">
 															<input type="radio" name="product_color" style="background:#999999">
 														</div>
-														<button class="product_cart_button">Add to Cart</button>
+														<button class="product_cart_button">Agregar al Carro</button>
 													</div>
 												</div>
 												<div class="product_fav"><i class="fas fa-heart"></i></div>
 												<ul class="product_marks">
 													<li class="product_mark product_discount"></li>
-													<li class="product_mark product_new">new</li>
+													<li class="product_mark product_new">Nuevo</li>
 												</ul>
 											</div>
 										</div>
@@ -1892,13 +1892,13 @@
 															<input type="radio" name="product_color" style="background:#000000">
 															<input type="radio" name="product_color" style="background:#999999">
 														</div>
-														<button class="product_cart_button">Add to Cart</button>
+														<button class="product_cart_button">Agregar al Carro</button>
 													</div>
 												</div>
 												<div class="product_fav"><i class="fas fa-heart"></i></div>
 												<ul class="product_marks">
 													<li class="product_mark product_discount"></li>
-													<li class="product_mark product_new">new</li>
+													<li class="product_mark product_new">Nuevo</li>
 												</ul>
 											</div>
 										</div>
@@ -1924,13 +1924,13 @@
 															<input type="radio" name="product_color" style="background:#000000">
 															<input type="radio" name="product_color" style="background:#999999">
 														</div>
-														<button class="product_cart_button">Add to Cart</button>
+														<button class="product_cart_button">Agregar al Carro</button>
 													</div>
 												</div>
 												<div class="product_fav"><i class="fas fa-heart"></i></div>
 												<ul class="product_marks">
 													<li class="product_mark product_discount">-25%</li>
-													<li class="product_mark product_new">new</li>
+													<li class="product_mark product_new">Nuevo</li>
 												</ul>
 											</div>
 										</div>
@@ -1949,13 +1949,13 @@
 															<input type="radio" name="product_color" style="background:#000000">
 															<input type="radio" name="product_color" style="background:#999999">
 														</div>
-														<button class="product_cart_button active">Add to Cart</button>
+														<button class="product_cart_button active">Agregar al Carro</button>
 													</div>
 												</div>
 												<div class="product_fav"><i class="fas fa-heart"></i></div>
 												<ul class="product_marks">
 													<li class="product_mark product_discount"></li>
-													<li class="product_mark product_new">new</li>
+													<li class="product_mark product_new">Nuevo</li>
 												</ul>
 											</div>
 										</div>
@@ -1974,13 +1974,13 @@
 															<input type="radio" name="product_color" style="background:#000000">
 															<input type="radio" name="product_color" style="background:#999999">
 														</div>
-														<button class="product_cart_button">Add to Cart</button>
+														<button class="product_cart_button">Agregar al Carro</button>
 													</div>
 												</div>
 												<div class="product_fav"><i class="fas fa-heart"></i></div>
 												<ul class="product_marks">
 													<li class="product_mark product_discount"></li>
-													<li class="product_mark product_new">new</li>
+													<li class="product_mark product_new">Nuevo</li>
 												</ul>
 											</div>
 										</div>
@@ -1999,13 +1999,13 @@
 															<input type="radio" name="product_color" style="background:#000000">
 															<input type="radio" name="product_color" style="background:#999999">
 														</div>
-														<button class="product_cart_button">Add to Cart</button>
+														<button class="product_cart_button">Agregar al Carro</button>
 													</div>
 												</div>
 												<div class="product_fav"><i class="fas fa-heart"></i></div>
 												<ul class="product_marks">
 													<li class="product_mark product_discount"></li>
-													<li class="product_mark product_new">new</li>
+													<li class="product_mark product_new">Nuevo</li>
 												</ul>
 											</div>
 										</div>
@@ -2024,13 +2024,13 @@
 															<input type="radio" name="product_color" style="background:#000000">
 															<input type="radio" name="product_color" style="background:#999999">
 														</div>
-														<button class="product_cart_button">Add to Cart</button>
+														<button class="product_cart_button">Agregar al Carro</button>
 													</div>
 												</div>
 												<div class="product_fav"><i class="fas fa-heart"></i></div>
 												<ul class="product_marks">
 													<li class="product_mark product_discount"></li>
-													<li class="product_mark product_new">new</li>
+													<li class="product_mark product_new">Nuevo</li>
 												</ul>
 											</div>
 										</div>
@@ -2049,13 +2049,13 @@
 															<input type="radio" name="product_color" style="background:#000000">
 															<input type="radio" name="product_color" style="background:#999999">
 														</div>
-														<button class="product_cart_button">Add to Cart</button>
+														<button class="product_cart_button">Agregar al Carro</button>
 													</div>
 												</div>
 												<div class="product_fav"><i class="fas fa-heart"></i></div>
 												<ul class="product_marks">
 													<li class="product_mark product_discount"></li>
-													<li class="product_mark product_new">new</li>
+													<li class="product_mark product_new">Nuevo</li>
 												</ul>
 											</div>
 										</div>
@@ -2074,13 +2074,13 @@
 															<input type="radio" name="product_color" style="background:#000000">
 															<input type="radio" name="product_color" style="background:#999999">
 														</div>
-														<button class="product_cart_button">Add to Cart</button>
+														<button class="product_cart_button">Agregar al Carro</button>
 													</div>
 												</div>
 												<div class="product_fav"><i class="fas fa-heart"></i></div>
 												<ul class="product_marks">
 													<li class="product_mark product_discount">-25%</li>
-													<li class="product_mark product_new">new</li>
+													<li class="product_mark product_new">Nuevo</li>
 												</ul>
 											</div>
 										</div>
@@ -2099,13 +2099,13 @@
 															<input type="radio" name="product_color" style="background:#000000">
 															<input type="radio" name="product_color" style="background:#999999">
 														</div>
-														<button class="product_cart_button">Add to Cart</button>
+														<button class="product_cart_button">Agregar al Carro</button>
 													</div>
 												</div>
 												<div class="product_fav"><i class="fas fa-heart"></i></div>
 												<ul class="product_marks">
 													<li class="product_mark product_discount"></li>
-													<li class="product_mark product_new">new</li>
+													<li class="product_mark product_new">Nuevo</li>
 												</ul>
 											</div>
 										</div>
@@ -2124,13 +2124,13 @@
 															<input type="radio" name="product_color" style="background:#000000">
 															<input type="radio" name="product_color" style="background:#999999">
 														</div>
-														<button class="product_cart_button">Add to Cart</button>
+														<button class="product_cart_button">Agregar al Carro</button>
 													</div>
 												</div>
 												<div class="product_fav"><i class="fas fa-heart"></i></div>
 												<ul class="product_marks">
 													<li class="product_mark product_discount"></li>
-													<li class="product_mark product_new">new</li>
+													<li class="product_mark product_new">Nuevo</li>
 												</ul>
 											</div>
 										</div>
@@ -2149,13 +2149,13 @@
 															<input type="radio" name="product_color" style="background:#000000">
 															<input type="radio" name="product_color" style="background:#999999">
 														</div>
-														<button class="product_cart_button">Add to Cart</button>
+														<button class="product_cart_button">Agregar al Carro</button>
 													</div>
 												</div>
 												<div class="product_fav"><i class="fas fa-heart"></i></div>
 												<ul class="product_marks">
 													<li class="product_mark product_discount"></li>
-													<li class="product_mark product_new">new</li>
+													<li class="product_mark product_new">Nuevo</li>
 												</ul>
 											</div>
 										</div>
@@ -2174,13 +2174,13 @@
 															<input type="radio" name="product_color" style="background:#000000">
 															<input type="radio" name="product_color" style="background:#999999">
 														</div>
-														<button class="product_cart_button">Add to Cart</button>
+														<button class="product_cart_button">Agregar al Carro</button>
 													</div>
 												</div>
 												<div class="product_fav"><i class="fas fa-heart"></i></div>
 												<ul class="product_marks">
 													<li class="product_mark product_discount"></li>
-													<li class="product_mark product_new">new</li>
+													<li class="product_mark product_new">Nuevo</li>
 												</ul>
 											</div>
 										</div>
@@ -2199,13 +2199,13 @@
 															<input type="radio" name="product_color" style="background:#000000">
 															<input type="radio" name="product_color" style="background:#999999">
 														</div>
-														<button class="product_cart_button">Add to Cart</button>
+														<button class="product_cart_button">Agregar al Carro</button>
 													</div>
 												</div>
 												<div class="product_fav"><i class="fas fa-heart"></i></div>
 												<ul class="product_marks">
 													<li class="product_mark product_discount"></li>
-													<li class="product_mark product_new">new</li>
+													<li class="product_mark product_new">Nuevo</li>
 												</ul>
 											</div>
 										</div>
@@ -2224,13 +2224,13 @@
 															<input type="radio" name="product_color" style="background:#000000">
 															<input type="radio" name="product_color" style="background:#999999">
 														</div>
-														<button class="product_cart_button">Add to Cart</button>
+														<button class="product_cart_button">Agregar al Carro</button>
 													</div>
 												</div>
 												<div class="product_fav"><i class="fas fa-heart"></i></div>
 												<ul class="product_marks">
 													<li class="product_mark product_discount"></li>
-													<li class="product_mark product_new">new</li>
+													<li class="product_mark product_new">Nuevo</li>
 												</ul>
 											</div>
 										</div>
@@ -2249,13 +2249,13 @@
 															<input type="radio" name="product_color" style="background:#000000">
 															<input type="radio" name="product_color" style="background:#999999">
 														</div>
-														<button class="product_cart_button">Add to Cart</button>
+														<button class="product_cart_button">Agregar al Carro</button>
 													</div>
 												</div>
 												<div class="product_fav"><i class="fas fa-heart"></i></div>
 												<ul class="product_marks">
 													<li class="product_mark product_discount"></li>
-													<li class="product_mark product_new">new</li>
+													<li class="product_mark product_new">Nuevo</li>
 												</ul>
 											</div>
 										</div>
@@ -2274,13 +2274,13 @@
 															<input type="radio" name="product_color" style="background:#000000">
 															<input type="radio" name="product_color" style="background:#999999">
 														</div>
-														<button class="product_cart_button">Add to Cart</button>
+														<button class="product_cart_button">Agregar al Carro</button>
 													</div>
 												</div>
 												<div class="product_fav"><i class="fas fa-heart"></i></div>
 												<ul class="product_marks">
 													<li class="product_mark product_discount"></li>
-													<li class="product_mark product_new">new</li>
+													<li class="product_mark product_new">Nuevo</li>
 												</ul>
 											</div>
 										</div>
@@ -2299,13 +2299,13 @@
 															<input type="radio" name="product_color" style="background:#000000">
 															<input type="radio" name="product_color" style="background:#999999">
 														</div>
-														<button class="product_cart_button">Add to Cart</button>
+														<button class="product_cart_button">Agregar al Carro</button>
 													</div>
 												</div>
 												<div class="product_fav"><i class="fas fa-heart"></i></div>
 												<ul class="product_marks">
 													<li class="product_mark product_discount"></li>
-													<li class="product_mark product_new">new</li>
+													<li class="product_mark product_new">Nuevo</li>
 												</ul>
 											</div>
 										</div>
@@ -2331,13 +2331,13 @@
 															<input type="radio" name="product_color" style="background:#000000">
 															<input type="radio" name="product_color" style="background:#999999">
 														</div>
-														<button class="product_cart_button">Add to Cart</button>
+														<button class="product_cart_button">Agregar al Carro</button>
 													</div>
 												</div>
 												<div class="product_fav"><i class="fas fa-heart"></i></div>
 												<ul class="product_marks">
 													<li class="product_mark product_discount">-25%</li>
-													<li class="product_mark product_new">new</li>
+													<li class="product_mark product_new">Nuevo</li>
 												</ul>
 											</div>
 										</div>
@@ -2356,13 +2356,13 @@
 															<input type="radio" name="product_color" style="background:#000000">
 															<input type="radio" name="product_color" style="background:#999999">
 														</div>
-														<button class="product_cart_button active">Add to Cart</button>
+														<button class="product_cart_button active">Agregar al Carro</button>
 													</div>
 												</div>
 												<div class="product_fav"><i class="fas fa-heart"></i></div>
 												<ul class="product_marks">
 													<li class="product_mark product_discount"></li>
-													<li class="product_mark product_new">new</li>
+													<li class="product_mark product_new">Nuevo</li>
 												</ul>
 											</div>
 										</div>
@@ -2381,13 +2381,13 @@
 															<input type="radio" name="product_color" style="background:#000000">
 															<input type="radio" name="product_color" style="background:#999999">
 														</div>
-														<button class="product_cart_button">Add to Cart</button>
+														<button class="product_cart_button">Agregar al Carro</button>
 													</div>
 												</div>
 												<div class="product_fav"><i class="fas fa-heart"></i></div>
 												<ul class="product_marks">
 													<li class="product_mark product_discount"></li>
-													<li class="product_mark product_new">new</li>
+													<li class="product_mark product_new">Nuevo</li>
 												</ul>
 											</div>
 										</div>
@@ -2406,13 +2406,13 @@
 															<input type="radio" name="product_color" style="background:#000000">
 															<input type="radio" name="product_color" style="background:#999999">
 														</div>
-														<button class="product_cart_button">Add to Cart</button>
+														<button class="product_cart_button">Agregar al Carro</button>
 													</div>
 												</div>
 												<div class="product_fav"><i class="fas fa-heart"></i></div>
 												<ul class="product_marks">
 													<li class="product_mark product_discount"></li>
-													<li class="product_mark product_new">new</li>
+													<li class="product_mark product_new">Nuevo</li>
 												</ul>
 											</div>
 										</div>
@@ -2431,13 +2431,13 @@
 															<input type="radio" name="product_color" style="background:#000000">
 															<input type="radio" name="product_color" style="background:#999999">
 														</div>
-														<button class="product_cart_button">Add to Cart</button>
+														<button class="product_cart_button">Agregar al Carro</button>
 													</div>
 												</div>
 												<div class="product_fav"><i class="fas fa-heart"></i></div>
 												<ul class="product_marks">
 													<li class="product_mark product_discount"></li>
-													<li class="product_mark product_new">new</li>
+													<li class="product_mark product_new">Nuevo</li>
 												</ul>
 											</div>
 										</div>
@@ -2456,13 +2456,13 @@
 															<input type="radio" name="product_color" style="background:#000000">
 															<input type="radio" name="product_color" style="background:#999999">
 														</div>
-														<button class="product_cart_button">Add to Cart</button>
+														<button class="product_cart_button">Agregar al Carro</button>
 													</div>
 												</div>
 												<div class="product_fav"><i class="fas fa-heart"></i></div>
 												<ul class="product_marks">
 													<li class="product_mark product_discount"></li>
-													<li class="product_mark product_new">new</li>
+													<li class="product_mark product_new">Nuevo</li>
 												</ul>
 											</div>
 										</div>
@@ -2481,13 +2481,13 @@
 															<input type="radio" name="product_color" style="background:#000000">
 															<input type="radio" name="product_color" style="background:#999999">
 														</div>
-														<button class="product_cart_button">Add to Cart</button>
+														<button class="product_cart_button">Agregar al Carro</button>
 													</div>
 												</div>
 												<div class="product_fav"><i class="fas fa-heart"></i></div>
 												<ul class="product_marks">
 													<li class="product_mark product_discount">-25%</li>
-													<li class="product_mark product_new">new</li>
+													<li class="product_mark product_new">Nuevo</li>
 												</ul>
 											</div>
 										</div>
@@ -2506,13 +2506,13 @@
 															<input type="radio" name="product_color" style="background:#000000">
 															<input type="radio" name="product_color" style="background:#999999">
 														</div>
-														<button class="product_cart_button">Add to Cart</button>
+														<button class="product_cart_button">Agregar al Carro</button>
 													</div>
 												</div>
 												<div class="product_fav"><i class="fas fa-heart"></i></div>
 												<ul class="product_marks">
 													<li class="product_mark product_discount"></li>
-													<li class="product_mark product_new">new</li>
+													<li class="product_mark product_new">Nuevo</li>
 												</ul>
 											</div>
 										</div>
@@ -2531,13 +2531,13 @@
 															<input type="radio" name="product_color" style="background:#000000">
 															<input type="radio" name="product_color" style="background:#999999">
 														</div>
-														<button class="product_cart_button">Add to Cart</button>
+														<button class="product_cart_button">Agregar al Carro</button>
 													</div>
 												</div>
 												<div class="product_fav"><i class="fas fa-heart"></i></div>
 												<ul class="product_marks">
 													<li class="product_mark product_discount"></li>
-													<li class="product_mark product_new">new</li>
+													<li class="product_mark product_new">Nuevo</li>
 												</ul>
 											</div>
 										</div>
@@ -2556,13 +2556,13 @@
 															<input type="radio" name="product_color" style="background:#000000">
 															<input type="radio" name="product_color" style="background:#999999">
 														</div>
-														<button class="product_cart_button">Add to Cart</button>
+														<button class="product_cart_button">Agregar al Carro</button>
 													</div>
 												</div>
 												<div class="product_fav"><i class="fas fa-heart"></i></div>
 												<ul class="product_marks">
 													<li class="product_mark product_discount"></li>
-													<li class="product_mark product_new">new</li>
+													<li class="product_mark product_new">Nuevo</li>
 												</ul>
 											</div>
 										</div>
@@ -2581,13 +2581,13 @@
 															<input type="radio" name="product_color" style="background:#000000">
 															<input type="radio" name="product_color" style="background:#999999">
 														</div>
-														<button class="product_cart_button">Add to Cart</button>
+														<button class="product_cart_button">Agregar al Carro</button>
 													</div>
 												</div>
 												<div class="product_fav"><i class="fas fa-heart"></i></div>
 												<ul class="product_marks">
 													<li class="product_mark product_discount"></li>
-													<li class="product_mark product_new">new</li>
+													<li class="product_mark product_new">Nuevo</li>
 												</ul>
 											</div>
 										</div>
@@ -2606,13 +2606,13 @@
 															<input type="radio" name="product_color" style="background:#000000">
 															<input type="radio" name="product_color" style="background:#999999">
 														</div>
-														<button class="product_cart_button">Add to Cart</button>
+														<button class="product_cart_button">Agregar al Carro</button>
 													</div>
 												</div>
 												<div class="product_fav"><i class="fas fa-heart"></i></div>
 												<ul class="product_marks">
 													<li class="product_mark product_discount"></li>
-													<li class="product_mark product_new">new</li>
+													<li class="product_mark product_new">Nuevo</li>
 												</ul>
 											</div>
 										</div>
@@ -2631,13 +2631,13 @@
 															<input type="radio" name="product_color" style="background:#000000">
 															<input type="radio" name="product_color" style="background:#999999">
 														</div>
-														<button class="product_cart_button">Add to Cart</button>
+														<button class="product_cart_button">Agregar al Carro</button>
 													</div>
 												</div>
 												<div class="product_fav"><i class="fas fa-heart"></i></div>
 												<ul class="product_marks">
 													<li class="product_mark product_discount"></li>
-													<li class="product_mark product_new">new</li>
+													<li class="product_mark product_new">Nuevo</li>
 												</ul>
 											</div>
 										</div>
@@ -2656,13 +2656,13 @@
 															<input type="radio" name="product_color" style="background:#000000">
 															<input type="radio" name="product_color" style="background:#999999">
 														</div>
-														<button class="product_cart_button">Add to Cart</button>
+														<button class="product_cart_button">Agregar al Carro</button>
 													</div>
 												</div>
 												<div class="product_fav"><i class="fas fa-heart"></i></div>
 												<ul class="product_marks">
 													<li class="product_mark product_discount"></li>
-													<li class="product_mark product_new">new</li>
+													<li class="product_mark product_new">Nuevo</li>
 												</ul>
 											</div>
 										</div>
@@ -2681,13 +2681,13 @@
 															<input type="radio" name="product_color" style="background:#000000">
 															<input type="radio" name="product_color" style="background:#999999">
 														</div>
-														<button class="product_cart_button">Add to Cart</button>
+														<button class="product_cart_button">Agregar al Carro</button>
 													</div>
 												</div>
 												<div class="product_fav"><i class="fas fa-heart"></i></div>
 												<ul class="product_marks">
 													<li class="product_mark product_discount"></li>
-													<li class="product_mark product_new">new</li>
+													<li class="product_mark product_new">Nuevo</li>
 												</ul>
 											</div>
 										</div>
@@ -2706,13 +2706,13 @@
 															<input type="radio" name="product_color" style="background:#000000">
 															<input type="radio" name="product_color" style="background:#999999">
 														</div>
-														<button class="product_cart_button">Add to Cart</button>
+														<button class="product_cart_button">Agregar al Carro</button>
 													</div>
 												</div>
 												<div class="product_fav"><i class="fas fa-heart"></i></div>
 												<ul class="product_marks">
 													<li class="product_mark product_discount"></li>
-													<li class="product_mark product_new">new</li>
+													<li class="product_mark product_new">Nuevo</li>
 												</ul>
 											</div>
 										</div>
@@ -2733,11 +2733,11 @@
 												<div class="arrivals_single_price text-right">$379</div>
 											</div>
 											<div class="rating_r rating_r_4 arrivals_single_rating"><i></i><i></i><i></i><i></i><i></i></div>
-											<form action="#"><button class="arrivals_single_button">Add to Cart</button></form>
+											<form action="#"><button class="arrivals_single_button">Agregar al Carro</button></form>
 										</div>
 										<div class="arrivals_single_fav product_fav active"><i class="fas fa-heart"></i></div>
 										<ul class="arrivals_single_marks product_marks">
-											<li class="arrivals_single_mark product_mark product_new">new</li>
+											<li class="arrivals_single_mark product_mark product_new">Nuevo</li>
 										</ul>
 									</div>
 								</div>
@@ -2759,11 +2759,11 @@
 				<div class="col">
 					<div class="tabbed_container">
 						<div class="tabs clearfix tabs-right">
-							<div class="new_arrivals_title">Hot Best Sellers</div>
+							<div class="new_arrivals_title">Proveedores</div>
 							<ul class="clearfix">
 								<li class="active">Top 20</li>
-								<li>Audio & Video</li>
-								<li>Laptops & Computers</li>
+								<li>Alternativos</li>
+								
 							</ul>
 							<div class="tabs_line"><span></span></div>
 						</div>
@@ -2788,7 +2788,7 @@
 									<div class="bestsellers_fav active"><i class="fas fa-heart"></i></div>
 									<ul class="bestsellers_marks">
 										<li class="bestsellers_mark bestsellers_discount">-25%</li>
-										<li class="bestsellers_mark bestsellers_new">new</li>
+										<li class="bestsellers_mark bestsellers_new">Nuevo</li>
 									</ul>
 								</div>
 
@@ -2806,7 +2806,7 @@
 									<div class="bestsellers_fav"><i class="fas fa-heart"></i></div>
 									<ul class="bestsellers_marks">
 										<li class="bestsellers_mark bestsellers_discount">-25%</li>
-										<li class="bestsellers_mark bestsellers_new">new</li>
+										<li class="bestsellers_mark bestsellers_new">Nuevo</li>
 									</ul>
 								</div>
 
@@ -2824,7 +2824,7 @@
 									<div class="bestsellers_fav"><i class="fas fa-heart"></i></div>
 									<ul class="bestsellers_marks">
 										<li class="bestsellers_mark bestsellers_discount">-25%</li>
-										<li class="bestsellers_mark bestsellers_new">new</li>
+										<li class="bestsellers_mark bestsellers_new">Nuevo</li>
 									</ul>
 								</div>
 
@@ -2842,7 +2842,7 @@
 									<div class="bestsellers_fav"><i class="fas fa-heart"></i></div>
 									<ul class="bestsellers_marks">
 										<li class="bestsellers_mark bestsellers_discount">-25%</li>
-										<li class="bestsellers_mark bestsellers_new">new</li>
+										<li class="bestsellers_mark bestsellers_new">Nuevo</li>
 									</ul>
 								</div>
 
@@ -2860,7 +2860,7 @@
 									<div class="bestsellers_fav active"><i class="fas fa-heart"></i></div>
 									<ul class="bestsellers_marks">
 										<li class="bestsellers_mark bestsellers_discount">-25%</li>
-										<li class="bestsellers_mark bestsellers_new">new</li>
+										<li class="bestsellers_mark bestsellers_new">Nuevo</li>
 									</ul>
 								</div>
 
@@ -2878,7 +2878,7 @@
 									<div class="bestsellers_fav active"><i class="fas fa-heart"></i></div>
 									<ul class="bestsellers_marks">
 										<li class="bestsellers_mark bestsellers_discount">-25%</li>
-										<li class="bestsellers_mark bestsellers_new">new</li>
+										<li class="bestsellers_mark bestsellers_new">Nuevo</li>
 									</ul>
 								</div>
 
@@ -2896,7 +2896,7 @@
 									<div class="bestsellers_fav active"><i class="fas fa-heart"></i></div>
 									<ul class="bestsellers_marks">
 										<li class="bestsellers_mark bestsellers_discount">-25%</li>
-										<li class="bestsellers_mark bestsellers_new">new</li>
+										<li class="bestsellers_mark bestsellers_new">Nuevo</li>
 									</ul>
 								</div>
 
@@ -2914,7 +2914,7 @@
 									<div class="bestsellers_fav"><i class="fas fa-heart"></i></div>
 									<ul class="bestsellers_marks">
 										<li class="bestsellers_mark bestsellers_discount">-25%</li>
-										<li class="bestsellers_mark bestsellers_new">new</li>
+										<li class="bestsellers_mark bestsellers_new">Nuevo</li>
 									</ul>
 								</div>
 
@@ -2932,7 +2932,7 @@
 									<div class="bestsellers_fav"><i class="fas fa-heart"></i></div>
 									<ul class="bestsellers_marks">
 										<li class="bestsellers_mark bestsellers_discount">-25%</li>
-										<li class="bestsellers_mark bestsellers_new">new</li>
+										<li class="bestsellers_mark bestsellers_new">Nuevo</li>
 									</ul>
 								</div>
 
@@ -2950,7 +2950,7 @@
 									<div class="bestsellers_fav"><i class="fas fa-heart"></i></div>
 									<ul class="bestsellers_marks">
 										<li class="bestsellers_mark bestsellers_discount">-25%</li>
-										<li class="bestsellers_mark bestsellers_new">new</li>
+										<li class="bestsellers_mark bestsellers_new">Nuevo</li>
 									</ul>
 								</div>
 
@@ -2968,7 +2968,7 @@
 									<div class="bestsellers_fav active"><i class="fas fa-heart"></i></div>
 									<ul class="bestsellers_marks">
 										<li class="bestsellers_mark bestsellers_discount">-25%</li>
-										<li class="bestsellers_mark bestsellers_new">new</li>
+										<li class="bestsellers_mark bestsellers_new">Nuevo</li>
 									</ul>
 								</div>
 
@@ -2986,7 +2986,7 @@
 									<div class="bestsellers_fav active"><i class="fas fa-heart"></i></div>
 									<ul class="bestsellers_marks">
 										<li class="bestsellers_mark bestsellers_discount">-25%</li>
-										<li class="bestsellers_mark bestsellers_new">new</li>
+										<li class="bestsellers_mark bestsellers_new">Nuevo</li>
 									</ul>
 								</div>
 
@@ -3013,7 +3013,7 @@
 									<div class="bestsellers_fav active"><i class="fas fa-heart"></i></div>
 									<ul class="bestsellers_marks">
 										<li class="bestsellers_mark bestsellers_discount">-25%</li>
-										<li class="bestsellers_mark bestsellers_new">new</li>
+										<li class="bestsellers_mark bestsellers_new">Nuevo</li>
 									</ul>
 								</div>
 
@@ -3031,7 +3031,7 @@
 									<div class="bestsellers_fav"><i class="fas fa-heart"></i></div>
 									<ul class="bestsellers_marks">
 										<li class="bestsellers_mark bestsellers_discount">-25%</li>
-										<li class="bestsellers_mark bestsellers_new">new</li>
+										<li class="bestsellers_mark bestsellers_new">Nuevo</li>
 									</ul>
 								</div>
 
@@ -3049,7 +3049,7 @@
 									<div class="bestsellers_fav"><i class="fas fa-heart"></i></div>
 									<ul class="bestsellers_marks">
 										<li class="bestsellers_mark bestsellers_discount">-25%</li>
-										<li class="bestsellers_mark bestsellers_new">new</li>
+										<li class="bestsellers_mark bestsellers_new">Nuevo</li>
 									</ul>
 								</div>
 
@@ -3067,7 +3067,7 @@
 									<div class="bestsellers_fav"><i class="fas fa-heart"></i></div>
 									<ul class="bestsellers_marks">
 										<li class="bestsellers_mark bestsellers_discount">-25%</li>
-										<li class="bestsellers_mark bestsellers_new">new</li>
+										<li class="bestsellers_mark bestsellers_new">Nuevo</li>
 									</ul>
 								</div>
 
@@ -3085,7 +3085,7 @@
 									<div class="bestsellers_fav active"><i class="fas fa-heart"></i></div>
 									<ul class="bestsellers_marks">
 										<li class="bestsellers_mark bestsellers_discount">-25%</li>
-										<li class="bestsellers_mark bestsellers_new">new</li>
+										<li class="bestsellers_mark bestsellers_new">Nuevo</li>
 									</ul>
 								</div>
 
@@ -3103,7 +3103,7 @@
 									<div class="bestsellers_fav active"><i class="fas fa-heart"></i></div>
 									<ul class="bestsellers_marks">
 										<li class="bestsellers_mark bestsellers_discount">-25%</li>
-										<li class="bestsellers_mark bestsellers_new">new</li>
+										<li class="bestsellers_mark bestsellers_new">Nuevo</li>
 									</ul>
 								</div>
 
@@ -3121,7 +3121,7 @@
 									<div class="bestsellers_fav active"><i class="fas fa-heart"></i></div>
 									<ul class="bestsellers_marks">
 										<li class="bestsellers_mark bestsellers_discount">-25%</li>
-										<li class="bestsellers_mark bestsellers_new">new</li>
+										<li class="bestsellers_mark bestsellers_new">Nuevo</li>
 									</ul>
 								</div>
 
@@ -3139,7 +3139,7 @@
 									<div class="bestsellers_fav"><i class="fas fa-heart"></i></div>
 									<ul class="bestsellers_marks">
 										<li class="bestsellers_mark bestsellers_discount">-25%</li>
-										<li class="bestsellers_mark bestsellers_new">new</li>
+										<li class="bestsellers_mark bestsellers_new">Nuevo</li>
 									</ul>
 								</div>
 
@@ -3157,7 +3157,7 @@
 									<div class="bestsellers_fav"><i class="fas fa-heart"></i></div>
 									<ul class="bestsellers_marks">
 										<li class="bestsellers_mark bestsellers_discount">-25%</li>
-										<li class="bestsellers_mark bestsellers_new">new</li>
+										<li class="bestsellers_mark bestsellers_new">Nuevo</li>
 									</ul>
 								</div>
 
@@ -3175,7 +3175,7 @@
 									<div class="bestsellers_fav"><i class="fas fa-heart"></i></div>
 									<ul class="bestsellers_marks">
 										<li class="bestsellers_mark bestsellers_discount">-25%</li>
-										<li class="bestsellers_mark bestsellers_new">new</li>
+										<li class="bestsellers_mark bestsellers_new">Nuevo</li>
 									</ul>
 								</div>
 
@@ -3193,7 +3193,7 @@
 									<div class="bestsellers_fav active"><i class="fas fa-heart"></i></div>
 									<ul class="bestsellers_marks">
 										<li class="bestsellers_mark bestsellers_discount">-25%</li>
-										<li class="bestsellers_mark bestsellers_new">new</li>
+										<li class="bestsellers_mark bestsellers_new">Nuevo</li>
 									</ul>
 								</div>
 
@@ -3211,7 +3211,7 @@
 									<div class="bestsellers_fav active"><i class="fas fa-heart"></i></div>
 									<ul class="bestsellers_marks">
 										<li class="bestsellers_mark bestsellers_discount">-25%</li>
-										<li class="bestsellers_mark bestsellers_new">new</li>
+										<li class="bestsellers_mark bestsellers_new">Nuevo</li>
 									</ul>
 								</div>
 
@@ -3238,7 +3238,7 @@
 									<div class="bestsellers_fav active"><i class="fas fa-heart"></i></div>
 									<ul class="bestsellers_marks">
 										<li class="bestsellers_mark bestsellers_discount">-25%</li>
-										<li class="bestsellers_mark bestsellers_new">new</li>
+										<li class="bestsellers_mark bestsellers_new">Nuevo</li>
 									</ul>
 								</div>
 
@@ -3256,7 +3256,7 @@
 									<div class="bestsellers_fav"><i class="fas fa-heart"></i></div>
 									<ul class="bestsellers_marks">
 										<li class="bestsellers_mark bestsellers_discount">-25%</li>
-										<li class="bestsellers_mark bestsellers_new">new</li>
+										<li class="bestsellers_mark bestsellers_new">Nuevo</li>
 									</ul>
 								</div>
 
@@ -3274,7 +3274,7 @@
 									<div class="bestsellers_fav"><i class="fas fa-heart"></i></div>
 									<ul class="bestsellers_marks">
 										<li class="bestsellers_mark bestsellers_discount">-25%</li>
-										<li class="bestsellers_mark bestsellers_new">new</li>
+										<li class="bestsellers_mark bestsellers_new">Nuevo</li>
 									</ul>
 								</div>
 
@@ -3292,7 +3292,7 @@
 									<div class="bestsellers_fav"><i class="fas fa-heart"></i></div>
 									<ul class="bestsellers_marks">
 										<li class="bestsellers_mark bestsellers_discount">-25%</li>
-										<li class="bestsellers_mark bestsellers_new">new</li>
+										<li class="bestsellers_mark bestsellers_new">Nuevo</li>
 									</ul>
 								</div>
 
@@ -3310,7 +3310,7 @@
 									<div class="bestsellers_fav active"><i class="fas fa-heart"></i></div>
 									<ul class="bestsellers_marks">
 										<li class="bestsellers_mark bestsellers_discount">-25%</li>
-										<li class="bestsellers_mark bestsellers_new">new</li>
+										<li class="bestsellers_mark bestsellers_new">Nuevo</li>
 									</ul>
 								</div>
 
@@ -3328,7 +3328,7 @@
 									<div class="bestsellers_fav active"><i class="fas fa-heart"></i></div>
 									<ul class="bestsellers_marks">
 										<li class="bestsellers_mark bestsellers_discount">-25%</li>
-										<li class="bestsellers_mark bestsellers_new">new</li>
+										<li class="bestsellers_mark bestsellers_new">Nuevo</li>
 									</ul>
 								</div>
 
@@ -3346,7 +3346,7 @@
 									<div class="bestsellers_fav active"><i class="fas fa-heart"></i></div>
 									<ul class="bestsellers_marks">
 										<li class="bestsellers_mark bestsellers_discount">-25%</li>
-										<li class="bestsellers_mark bestsellers_new">new</li>
+										<li class="bestsellers_mark bestsellers_new">Nuevo</li>
 									</ul>
 								</div>
 
@@ -3364,7 +3364,7 @@
 									<div class="bestsellers_fav"><i class="fas fa-heart"></i></div>
 									<ul class="bestsellers_marks">
 										<li class="bestsellers_mark bestsellers_discount">-25%</li>
-										<li class="bestsellers_mark bestsellers_new">new</li>
+										<li class="bestsellers_mark bestsellers_new">Nuevo</li>
 									</ul>
 								</div>
 
@@ -3382,7 +3382,7 @@
 									<div class="bestsellers_fav"><i class="fas fa-heart"></i></div>
 									<ul class="bestsellers_marks">
 										<li class="bestsellers_mark bestsellers_discount">-25%</li>
-										<li class="bestsellers_mark bestsellers_new">new</li>
+										<li class="bestsellers_mark bestsellers_new">Nuevo</li>
 									</ul>
 								</div>
 
@@ -3400,7 +3400,7 @@
 									<div class="bestsellers_fav"><i class="fas fa-heart"></i></div>
 									<ul class="bestsellers_marks">
 										<li class="bestsellers_mark bestsellers_discount">-25%</li>
-										<li class="bestsellers_mark bestsellers_new">new</li>
+										<li class="bestsellers_mark bestsellers_new">Nuevo</li>
 									</ul>
 								</div>
 
@@ -3418,7 +3418,7 @@
 									<div class="bestsellers_fav active"><i class="fas fa-heart"></i></div>
 									<ul class="bestsellers_marks">
 										<li class="bestsellers_mark bestsellers_discount">-25%</li>
-										<li class="bestsellers_mark bestsellers_new">new</li>
+										<li class="bestsellers_mark bestsellers_new">Nuevo</li>
 									</ul>
 								</div>
 
@@ -3436,7 +3436,7 @@
 									<div class="bestsellers_fav active"><i class="fas fa-heart"></i></div>
 									<ul class="bestsellers_marks">
 										<li class="bestsellers_mark bestsellers_discount">-25%</li>
-										<li class="bestsellers_mark bestsellers_new">new</li>
+										<li class="bestsellers_mark bestsellers_new">Nuevo</li>
 									</ul>
 								</div>
 
@@ -3644,7 +3644,7 @@
 					
 					<div class="copyright_container d-flex flex-sm-row flex-column align-items-center justify-content-start">
 						<div class="copyright_content"><!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | This template is made with <i class="fa fa-heart" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank">Colorlib</a>
+Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved
 <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
 </div>
 						<div class="logos ml-sm-auto">
