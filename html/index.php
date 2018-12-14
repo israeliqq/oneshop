@@ -1,4 +1,4 @@
-<?php require('vista/plantilla/cabeza.php'); ?>
+<?php require('plantilla/cabeza.php'); ?>
 	
 	<!-- Banner -->
 
@@ -3662,4 +3662,4 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> All r
 	</div>
 </div>
 
-<?php require('vista/plantilla/pie.php'); ?>
+<?php require('plantilla/pie.php'); ?>
