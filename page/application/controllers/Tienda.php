@@ -14,4 +14,23 @@ class Tienda extends CI_Controller {
 		$this->layout->view('index');
 		//$this->load->view('tienda/index');
 	}
+
+	public function carrito()
+	{
+		$this->layout->setLayout('tienda2');
+		$this->layout->view('carrito');
+	}
+
+	public function producto()
+	{
+		$this->layout->setLayout('tienda2');
+		$this->layout->view('producto');
+	}
+
+	public function pedido()
+	{
+		$this->layout->setLayout('tienda2');
+		$this->layout->view('pedido');
+	}
+
 }

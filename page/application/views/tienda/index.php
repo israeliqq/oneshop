@@ -1,541 +1,814 @@
-<div class="super_container">
-	
-	<!-- Header -->
-	
-	<header class="header">
 
-		<!-- Top Bar -->
-
-		<div class="top_bar">
-			<div class="container">
+<!--Content-->
+<div class="main-content home-page main-content-home3">
+	<div class="container">
+		<div class="container-offset">
+			<div class="main-slideshow slideshow3">
+				<div class="owl-carousel nav-style1 owl-background" data-autoplay="true" data-nav="true" data-dots="false" data-loop="true" data-slidespeed="800" data-margin="0"  data-responsive = '{"0":{"items":1}, "640":{"items":1}, "768":{"items":1}, "1024":{"items":1}, "1200":{"items":1}}' data-height="400">
+					<div class="slide-item item1 item-background" data-background="<?php echo base_url();?>tools/images/slide7.jpg">
+						<div class="slide-img"><img src="<?php echo base_url();?>tools/images/slide7.jpg" alt=""></div>
+						<div class="slide-content">
+							<h5 class="subtitle">Premium</h5>
+							<h3 class="title">Notebook Corei7</h3>
+							<h5 class="smalltitle">Only: <span class="price"> $226.00</span></h5>
+							<a href="#" class="button">Comprar Ahora</a>
+						</div>
+					</div>
+					<div class="slide-item item2 item-background" data-background="<?php echo base_url();?>tools/images/slide8.jpg">
+						<div class="slide-img"><img src="<?php echo base_url();?>tools/images/slide8.jpg" alt=""></div>
+						<div class="slide-content">
+							<h4 class="subtitle">Tablet	</h4>
+							<h3 class="title">Cambio tu Mundo</h3>
+							<h5 class="smalltitle">Disponible en todos los colores</h5>
+							<a href="#" class="button">Comprar Ahora</a>
+						</div>
+					</div>
+					<div class="slide-item item3 item-background" data-background="<?php echo base_url();?>tools/images/slide9.jpg">
+						<div class="slide-img"><img src="<?php echo base_url();?>tools/images/slide9.jpg" alt=""></div>
+						<div class="slide-content">
+							<h4 class="subtitle text-main-color">Premium</h4>
+							<h3 class="title">Smart Audio</h3>
+							<h5 class="smalltitle">Only: <span class="price"> $226.00</span></h5>
+							<a href="#" class="button">Comprar Ahora</a>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="featrue-box-list equal-container">
 				<div class="row">
-					<div class="col d-flex flex-row">
-						<div class="top_bar_contact_item"><div class="top_bar_icon"><img src="<?php echo base_url();?>tools/images/phone.png" alt=""></div>+38 068 005 3570</div>
-						<div class="top_bar_contact_item"><div class="top_bar_icon"><img src="<?php echo base_url();?>tools/images/mail.png" alt=""></div><a href="mailto:fastsales@gmail.com">fastsales@gmail.com</a></div>
-						<div class="top_bar_content ml-auto">
-							<div class="top_bar_menu">
-								<ul class="standard_dropdown top_bar_dropdown">
-									<li>
-										<a href="#">English<i class="fas fa-chevron-down"></i></a>
-										<ul>
-											<li><a href="#">Italian</a></li>
-											<li><a href="#">Spanish</a></li>
-											<li><a href="#">Japanese</a></li>
-										</ul>
-									</li>
-									<li>
-										<a href="#">$ US dollar<i class="fas fa-chevron-down"></i></a>
-										<ul>
-											<li><a href="#">EUR Euro</a></li>
-											<li><a href="#">GBP British Pound</a></li>
-											<li><a href="#">JPY Japanese Yen</a></li>
-										</ul>
-									</li>
-								</ul>
+					<div class="col-ss-12 col-xs-12 col-sm-4 col-md-4 col-lg-4 featrue-item">
+						<div class="featrue-box layout2 equal-elem">
+							<div class="block-icon"><a href="#"><span class="fa fa-truck"></span></a></div>
+							<div class="block-inner">
+								<a href="#" class="title">Gestionamos tus Envío</a>
+								<p class="des">Transportes Nacionales e Internacionales</p>
 							</div>
-							<div class="top_bar_user">
-								<div class="user_icon"><img src="images/user.svg" alt=""></div>
-								<div><a href="#">Register</a></div>
-								<div><a href="#">Sign in</a></div>
+						</div>
+					</div>
+					<div class="col-ss-12 col-xs-12 col-sm-4 col-md-4 col-lg-4 featrue-item">
+						<div class="featrue-box layout2 equal-elem">
+							<div class="block-icon"><a href="#"><span class="fa fa-retweet"></span></a></div>
+							<div class="block-inner">
+								<a href="#"  class="title">Trapasos de Dinero</a>
+								<p class="des">Pago a Proveedores</p>
+							</div>
+						</div>
+					</div>
+					<div class="col-ss-12 col-xs-12 col-sm-4 col-md-4 col-lg-4 featrue-item">
+						<div class="featrue-box layout2 equal-elem">
+							<div class="block-icon"><a href="#"><span class="fa fa-life-ring"></span></a></div>
+							<div class="block-inner">
+								<a href="#"  class="title">Call Center 24/7</a>
+								<p class="des">Soporte Técnico Especializado</p>
 							</div>
 						</div>
 					</div>
 				</div>
-			</div>		
+			</div>
 		</div>
 
-		<!-- Header Main -->
+	</div>
+</div>
 
-		<div class="header_main">
-			<div class="container">
-				<div class="row">
 
-					<!-- Logo -->
-					<div class="col-lg-2 col-sm-3 col-3 order-1">
-						<div class="logo_container">
-							<div class="logo"><a href="#">OneTech</a></div>
-						</div>
-					</div>
 
-					<!-- Search -->
-					<div class="col-lg-6 col-12 order-lg-2 order-3 text-lg-left text-right">
-						<div class="header_search">
-							<div class="header_search_content">
-								<div class="header_search_form_container">
-									<form action="#" class="header_search_form clearfix">
-										<input type="search" required="required" class="header_search_input" placeholder="Search for products...">
-										<div class="custom_dropdown">
-											<div class="custom_dropdown_list">
-												<span class="custom_dropdown_placeholder clc">All Categories</span>
-												<i class="fas fa-chevron-down"></i>
-												<ul class="custom_list clc">
-													<li><a class="clc" href="#">All Categories</a></li>
-													<li><a class="clc" href="#">Computers</a></li>
-													<li><a class="clc" href="#">Laptops</a></li>
-													<li><a class="clc" href="#">Cameras</a></li>
-													<li><a class="clc" href="#">Hardware</a></li>
-													<li><a class="clc" href="#">Smartphones</a></li>
-												</ul>
+<div class="main-content home-page main-content-home1">
+	<div class="container">
+
+		<!--List Products-->
+		<div class="group-product layout1">
+			<div class="kt-tab nav-tab-style1">
+				<div class="section-head box-has-content">
+					<h4 class="section-title">PRODUCTOS DESTACADOS</h4>
+					<ul class="nav list-nav">
+						<li class="active"><a data-animated="pulse" data-toggle="pill" href="#tab1">Todo</a></li>
+						<li><a data-animated="fadeIn" data-toggle="pill" href="#tab2">Telefonía</a></li>
+						<li><a data-animated="fadeInDown" data-toggle="pill" href="#tab1">Computación </a></li>
+						<li><a data-animated="fadeInUp" data-toggle="pill" href="#tab2">Accesorios </a></li>
+					</ul>
+				</div>
+				<div class="section-content">
+					<div class="tab-content">
+						<div id="tab1" class="tab-panel active">
+							<div class="owl-carousel product-list-owl nav-style2 equal-container" data-autoplay="false" data-nav="true" data-dots="false" data-loop="false" data-slidespeed="800" data-margin="0"  data-responsive = '{"0":{"items":1}, "480":{"items":2,"margin":0}, "640":{"items":3,"margin":-1}, "992":{"items":4}, "1200":{"items":5}}'>
+								<div class="product-item layout1">
+									<div class="product-inner equal-elem">
+										<div class="thumb">
+											<a href="#" class="quickview-button"><span class="icon"><i class="fa fa-eye" aria-hidden="true"></i></span> Quick View</a>
+											<a href="detail.html" class="thumb-link"><img src="<?php echo base_url();?>tools/images/product1.jpg" alt=""></a>
+										</div>
+										<div class="info">
+											<a href="detail.html" class="product-name">Rubberized Hard Case Older MacBook Pro 13.3"</a>
+											<div class="price">
+												<span>$350.00</span>
 											</div>
 										</div>
-										<button type="submit" class="header_search_button trans_300" value="Submit"><img src="<?php echo base_url();?>tools/images/search.png" alt=""></button>
-									</form>
-								</div>
-							</div>
-						</div>
-					</div>
-
-					<!-- Wishlist -->
-					<div class="col-lg-4 col-9 order-lg-3 order-2 text-lg-left text-right">
-						<div class="wishlist_cart d-flex flex-row align-items-center justify-content-end">
-							<div class="wishlist d-flex flex-row align-items-center justify-content-end">
-								<div class="wishlist_icon"><img src="<?php echo base_url();?>tools/images/heart.png" alt=""></div>
-								<div class="wishlist_content">
-									<div class="wishlist_text"><a href="#">Wishlist</a></div>
-									<div class="wishlist_count">115</div>
-								</div>
-							</div>
-
-							<!-- Cart -->
-							<div class="cart">
-								<div class="cart_container d-flex flex-row align-items-center justify-content-end">
-									<div class="cart_icon">
-										<img src="<?php echo base_url();?>tools/images/cart.png" alt="">
-										<div class="cart_count"><span>10</span></div>
-									</div>
-									<div class="cart_content">
-										<div class="cart_text"><a href="#">Cart</a></div>
-										<div class="cart_price">$85</div>
+										<div class="group-button">
+											<div class="inner">
+												<a href="#" class="add-to-cart"><span class="text">ADD TO CART</span><span class="icon"><i class="fa fa-cart-arrow-down" aria-hidden="true"></i></span></a>
+												<a href="#" class="compare-button"><i class="fa fa-exchange" aria-hidden="true"></i></a>
+												<a href="#" class="wishlist-button"><i class="fa fa-heart-o" aria-hidden="true"></i></a>
+											</div>
+										</div>
 									</div>
 								</div>
-							</div>
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>
-		
-		<!-- Main Navigation -->
-
-		<nav class="main_nav">
-			<div class="container">
-				<div class="row">
-					<div class="col">
-						
-						<div class="main_nav_content d-flex flex-row">
-
-							<!-- Categories Menu -->
-
-							<div class="cat_menu_container">
-								<div class="cat_menu_title d-flex flex-row align-items-center justify-content-start">
-									<div class="cat_burger"><span></span><span></span><span></span></div>
-									<div class="cat_menu_text">categories</div>
+								<div class="product-item layout1">
+									<div class="product-inner equal-elem">
+										<ul class="group-flash">
+											<li><span class="new flash">NUEVO</span></li>
+										</ul>											
+										<div class="thumb">
+											<a href="#" class="quickview-button"><span class="icon"><i class="fa fa-eye" aria-hidden="true"></i></span> Quick View</a>
+											<a href="detail.html" class="thumb-link"><img src="<?php echo base_url();?>tools/images/product2.jpg" alt=""></a>
+										</div>
+										<div class="info">
+											<a href="detail.html" class="product-name">Smartphone RAM 4 GB New</a>
+											<div class="price">
+												<span >$350.00</span>
+											</div>
+										</div>
+										<div class="group-button">
+											<div class="inner">
+											<a href="#" class="add-to-cart"><span class="text">ADD TO CART</span><span class="icon"><i class="fa fa-cart-arrow-down" aria-hidden="true"></i></span></a>
+											<a href="#" class="compare-button"><i class="fa fa-exchange" aria-hidden="true"></i></a>
+											<a href="#" class="wishlist-button"><i class="fa fa-heart-o" aria-hidden="true"></i></a>
+											</div>
+										</div>
+									</div>
 								</div>
-
-								<ul class="cat_menu">
-									<li><a href="#">Computers & Laptops <i class="fas fa-chevron-right ml-auto"></i></a></li>
-									<li><a href="#">Cameras & Photos<i class="fas fa-chevron-right"></i></a></li>
-									<li class="hassubs">
-										<a href="#">Hardware<i class="fas fa-chevron-right"></i></a>
-										<ul>
-											<li class="hassubs">
-												<a href="#">Menu Item<i class="fas fa-chevron-right"></i></a>
-												<ul>
-													<li><a href="#">Menu Item<i class="fas fa-chevron-right"></i></a></li>
-													<li><a href="#">Menu Item<i class="fas fa-chevron-right"></i></a></li>
-													<li><a href="#">Menu Item<i class="fas fa-chevron-right"></i></a></li>
-													<li><a href="#">Menu Item<i class="fas fa-chevron-right"></i></a></li>
-												</ul>
-											</li>
-											<li><a href="#">Menu Item<i class="fas fa-chevron-right"></i></a></li>
-											<li><a href="#">Menu Item<i class="fas fa-chevron-right"></i></a></li>
-											<li><a href="#">Menu Item<i class="fas fa-chevron-right"></i></a></li>
+								<div class="product-item layout1">
+									<div class="product-inner equal-elem">
+										<ul class="group-flash">
+											<li><span class="sale flash">-50%</span></li>
+											<li><span class="best flash">Exito en Ventas</span></li>
 										</ul>
-									</li>
-									<li><a href="#">Smartphones & Tablets<i class="fas fa-chevron-right"></i></a></li>
-									<li><a href="#">TV & Audio<i class="fas fa-chevron-right"></i></a></li>
-									<li><a href="#">Gadgets<i class="fas fa-chevron-right"></i></a></li>
-									<li><a href="#">Car Electronics<i class="fas fa-chevron-right"></i></a></li>
-									<li><a href="#">Video Games & Consoles<i class="fas fa-chevron-right"></i></a></li>
-									<li><a href="#">Accessories<i class="fas fa-chevron-right"></i></a></li>
-								</ul>
-							</div>
-
-							<!-- Main Nav Menu -->
-
-							<div class="main_nav_menu ml-auto">
-								<ul class="standard_dropdown main_nav_dropdown">
-									<li><a href="#">Home<i class="fas fa-chevron-down"></i></a></li>
-									<li class="hassubs">
-										<a href="#">Super Deals<i class="fas fa-chevron-down"></i></a>
-										<ul>
-											<li>
-												<a href="#">Menu Item<i class="fas fa-chevron-down"></i></a>
-												<ul>
-													<li><a href="#">Menu Item<i class="fas fa-chevron-down"></i></a></li>
-													<li><a href="#">Menu Item<i class="fas fa-chevron-down"></i></a></li>
-													<li><a href="#">Menu Item<i class="fas fa-chevron-down"></i></a></li>
-												</ul>
-											</li>
-											<li><a href="#">Menu Item<i class="fas fa-chevron-down"></i></a></li>
-											<li><a href="#">Menu Item<i class="fas fa-chevron-down"></i></a></li>
-											<li><a href="#">Menu Item<i class="fas fa-chevron-down"></i></a></li>
+										<div class="thumb">
+											<a href="#" class="quickview-button"><span class="icon"><i class="fa fa-eye" aria-hidden="true"></i></span> Quick View</a>
+											<a href="detail.html" class="thumb-link"><img src="<?php echo base_url();?>tools/images/product3.jpg" alt=""></a>
+										</div>
+										<div class="info">
+											<a href="detail.html" class="product-name">Fujifilm INSTAX Mini 8 Instant Camera (White)</a>
+											<div class="price">
+												<span class="del">$700.00</span>
+												<span class="ins">$350.00</span>
+											</div>
+										</div>
+										<div class="group-button">
+											<div class="inner">
+											<a href="#" class="add-to-cart"><span class="text">ADD TO CART</span><span class="icon"><i class="fa fa-cart-arrow-down" aria-hidden="true"></i></span></a>
+											<a href="#" class="compare-button"><i class="fa fa-exchange" aria-hidden="true"></i></a>
+											<a href="#" class="wishlist-button"><i class="fa fa-heart-o" aria-hidden="true"></i></a>
+											</div>
+										</div>
+									</div>
+								</div>
+								<div class="product-item layout1">
+									<div class="product-inner equal-elem">
+										<div class="thumb">
+											<a href="#" class="quickview-button"><span class="icon"><i class="fa fa-eye" aria-hidden="true"></i></span> Quick View</a>
+											<a href="detail.html" class="thumb-link"><img src="<?php echo base_url();?>tools/images/product4.jpg" alt=""></a>
+										</div>
+										<div class="info">
+											<a href="detail.html" class="product-name">PC Prox 21.5-inch and 27-inch (Late 2018) reviews</a>
+											<div class="price">
+												<span >$550.00</span>
+											</div>
+										</div>
+										<div class="group-button">
+											<div class="inner">
+											<a href="#" class="add-to-cart"><span class="text">ADD TO CART</span><span class="icon"><i class="fa fa-cart-arrow-down" aria-hidden="true"></i></span></a>
+											<a href="#" class="compare-button"><i class="fa fa-exchange" aria-hidden="true"></i></a>
+											<a href="#" class="wishlist-button"><i class="fa fa-heart-o" aria-hidden="true"></i></a>
+											</div>
+										</div>
+									</div>
+								</div>
+								<div class="product-item layout1">
+									<div class="product-inner equal-elem">
+										<ul class="group-flash">
+											<li><span class="sale flash">-50%</span></li>
 										</ul>
-									</li>
-									<li class="hassubs">
-										<a href="#">Featured Brands<i class="fas fa-chevron-down"></i></a>
-										<ul>
-											<li>
-												<a href="#">Menu Item<i class="fas fa-chevron-down"></i></a>
-												<ul>
-													<li><a href="#">Menu Item<i class="fas fa-chevron-down"></i></a></li>
-													<li><a href="#">Menu Item<i class="fas fa-chevron-down"></i></a></li>
-													<li><a href="#">Menu Item<i class="fas fa-chevron-down"></i></a></li>
-												</ul>
-											</li>
-											<li><a href="#">Menu Item<i class="fas fa-chevron-down"></i></a></li>
-											<li><a href="#">Menu Item<i class="fas fa-chevron-down"></i></a></li>
-											<li><a href="#">Menu Item<i class="fas fa-chevron-down"></i></a></li>
-										</ul>
-									</li>
-									<li class="hassubs">
-										<a href="#">Pages<i class="fas fa-chevron-down"></i></a>
-										<ul>
-											<li><a href="shop.html">Shop<i class="fas fa-chevron-down"></i></a></li>
-											<li><a href="product.html">Product<i class="fas fa-chevron-down"></i></a></li>
-											<li><a href="blog.html">Blog<i class="fas fa-chevron-down"></i></a></li>
-											<li><a href="blog_single.html">Blog Post<i class="fas fa-chevron-down"></i></a></li>
-											<li><a href="regular.html">Regular Post<i class="fas fa-chevron-down"></i></a></li>
-											<li><a href="cart.html">Cart<i class="fas fa-chevron-down"></i></a></li>
-											<li><a href="contact.html">Contact<i class="fas fa-chevron-down"></i></a></li>
-										</ul>
-									</li>
-									<li><a href="blog.html">Blog<i class="fas fa-chevron-down"></i></a></li>
-									<li><a href="contact.html">Contact<i class="fas fa-chevron-down"></i></a></li>
-								</ul>
-							</div>
-
-							<!-- Menu Trigger -->
-
-							<div class="menu_trigger_container ml-auto">
-								<div class="menu_trigger d-flex flex-row align-items-center justify-content-end">
-									<div class="menu_burger">
-										<div class="menu_trigger_text">menu</div>
-										<div class="cat_burger menu_burger_inner"><span></span><span></span><span></span></div>
+										<div class="thumb">
+											<a href="#" class="quickview-button"><span class="icon"><i class="fa fa-eye" aria-hidden="true"></i></span> Quick View</a>
+											<a href="detail.html" class="thumb-link"><img src="<?php echo base_url();?>tools/images/product5.jpg" alt=""></a>
+										</div>
+										<div class="info">
+											<a href="detail.html" class="product-name">Best Accessories- SteelSeries NIMBUS Controlle</a>
+											<div class="price">
+												<span class="del">$500.00</span>
+												<span class="ins">$250.00</span>
+											</div>
+										</div>
+										<div class="group-button">
+											<div class="inner">
+											<a href="#" class="add-to-cart"><span class="text">ADD TO CART</span><span class="icon"><i class="fa fa-cart-arrow-down" aria-hidden="true"></i></span></a>
+											<a href="#" class="compare-button"><i class="fa fa-exchange" aria-hidden="true"></i></a>
+											<a href="#" class="wishlist-button"><i class="fa fa-heart-o" aria-hidden="true"></i></a>
+											</div>
+										</div>
+									</div>
+								</div>
+								<div class="product-item layout1">
+									<div class="product-inner equal-elem">
+										<div class="thumb">
+											<a href="#" class="quickview-button"><span class="icon"><i class="fa fa-eye" aria-hidden="true"></i></span> Quick View</a>
+											<a href="detail.html" class="thumb-link"><img src="<?php echo base_url();?>tools/images/product6.jpg" alt=""></a>
+										</div>
+										<div class="info">
+											<a href="detail.html" class="product-name">Headphone </a>
+											<div class="price">
+												<span >$450.00</span>
+											</div>
+										</div>
+										<div class="group-button">
+											<div class="inner">
+											<a href="#" class="add-to-cart"><span class="text">ADD TO CART</span><span class="icon"><i class="fa fa-cart-arrow-down" aria-hidden="true"></i></span></a>
+											<a href="#" class="compare-button"><i class="fa fa-exchange" aria-hidden="true"></i></a>
+											<a href="#" class="wishlist-button"><i class="fa fa-heart-o" aria-hidden="true"></i></a>
+											</div>
+										</div>
 									</div>
 								</div>
 							</div>
-
 						</div>
-					</div>
-				</div>
-			</div>
-		</nav>
-		
-		<!-- Menu -->
-
-		<div class="page_menu">
-			<div class="container">
-				<div class="row">
-					<div class="col">
-						
-						<div class="page_menu_content">
-							
-							<div class="page_menu_search">
-								<form action="#">
-									<input type="search" required="required" class="page_menu_search_input" placeholder="Search for products...">
-								</form>
+						<div id="tab2" class="tab-panel">
+							<div class="owl-carousel product-list-owl nav-style2 equal-container" data-autoplay="false" data-nav="true" data-dots="false" data-loop="false" data-slidespeed="800" data-margin="0"  data-responsive = '{"0":{"items":1}, "480":{"items":2,"margin":0}, "640":{"items":3,"margin":-1}, "992":{"items":4}, "1200":{"items":5}}'>
+								<div class="product-item layout1">
+									<div class="product-inner equal-elem">
+										<div class="thumb">
+											<a href="#" class="quickview-button"><span class="icon"><i class="fa fa-eye" aria-hidden="true"></i></span> Quick View</a>
+											<a href="detail.html" class="thumb-link"><img src="<?php echo base_url();?>tools/images/product1.jpg" alt=""></a>
+										</div>
+										<div class="info">
+											<a href="detail.html" class="product-name">Rubberized Hard Case Older MacBook Pro 13.3"</a>
+											<div class="price">
+												<span>$350.00</span>
+											</div>
+										</div>
+										<div class="group-button">
+											<div class="inner">
+												<a href="#" class="add-to-cart"><span class="text">ADD TO CART</span><span class="icon"><i class="fa fa-cart-arrow-down" aria-hidden="true"></i></span></a>
+												<a href="#" class="compare-button"><i class="fa fa-exchange" aria-hidden="true"></i></a>
+												<a href="#" class="wishlist-button"><i class="fa fa-heart-o" aria-hidden="true"></i></a>
+											</div>
+										</div>
+									</div>
+								</div>
+								<div class="product-item layout1">
+									<div class="product-inner equal-elem">
+										<ul class="group-flash">
+											<li><span class="new flash">NUEVO</span></li>
+										</ul>											
+										<div class="thumb">
+											<a href="#" class="quickview-button"><span class="icon"><i class="fa fa-eye" aria-hidden="true"></i></span> Quick View</a>
+											<a href="detail.html" class="thumb-link"><img src="<?php echo base_url();?>tools/images/product2.jpg" alt=""></a>
+										</div>
+										<div class="info">
+											<a href="detail.html" class="product-name">Smartphone RAM 4 GB New</a>
+											<div class="price">
+												<span >$350.00</span>
+											</div>
+										</div>
+										<div class="group-button">
+											<div class="inner">
+											<a href="#" class="add-to-cart"><span class="text">ADD TO CART</span><span class="icon"><i class="fa fa-cart-arrow-down" aria-hidden="true"></i></span></a>
+											<a href="#" class="compare-button"><i class="fa fa-exchange" aria-hidden="true"></i></a>
+											<a href="#" class="wishlist-button"><i class="fa fa-heart-o" aria-hidden="true"></i></a>
+											</div>
+										</div>
+									</div>
+								</div>
+								<div class="product-item layout1">
+									<div class="product-inner equal-elem">
+										<ul class="group-flash">
+											<li><span class="sale flash">-50%</span></li>
+											<li><span class="best flash">Exito en Ventas</span></li>
+										</ul>
+										<div class="thumb">
+											<a href="#" class="quickview-button"><span class="icon"><i class="fa fa-eye" aria-hidden="true"></i></span> Quick View</a>
+											<a href="detail.html" class="thumb-link"><img src="<?php echo base_url();?>tools/images/product3.jpg" alt=""></a>
+										</div>
+										<div class="info">
+											<a href="detail.html" class="product-name">Fujifilm INSTAX Mini 8 Instant Camera (White)</a>
+											<div class="price">
+												<span class="del">$700.00</span>
+												<span class="ins">$350.00</span>
+											</div>
+										</div>
+										<div class="group-button">
+											<div class="inner">
+											<a href="#" class="add-to-cart"><span class="text">ADD TO CART</span><span class="icon"><i class="fa fa-cart-arrow-down" aria-hidden="true"></i></span></a>
+											<a href="#" class="compare-button"><i class="fa fa-exchange" aria-hidden="true"></i></a>
+											<a href="#" class="wishlist-button"><i class="fa fa-heart-o" aria-hidden="true"></i></a>
+											</div>
+										</div>
+									</div>
+								</div>
+								<div class="product-item layout1">
+									<div class="product-inner equal-elem">
+										<div class="thumb">
+											<a href="#" class="quickview-button"><span class="icon"><i class="fa fa-eye" aria-hidden="true"></i></span> Quick View</a>
+											<a href="detail.html" class="thumb-link"><img src="<?php echo base_url();?>tools/images/product4.jpg" alt=""></a>
+										</div>
+										<div class="info">
+											<a href="detail.html" class="product-name">PC Prox 21.5-inch and 27-inch (Late 2018) reviews</a>
+											<div class="price">
+												<span >$550.00</span>
+											</div>
+										</div>
+										<div class="group-button">
+											<div class="inner">
+											<a href="#" class="add-to-cart"><span class="text">ADD TO CART</span><span class="icon"><i class="fa fa-cart-arrow-down" aria-hidden="true"></i></span></a>
+											<a href="#" class="compare-button"><i class="fa fa-exchange" aria-hidden="true"></i></a>
+											<a href="#" class="wishlist-button"><i class="fa fa-heart-o" aria-hidden="true"></i></a>
+											</div>
+										</div>
+									</div>
+								</div>
+								<div class="product-item layout1">
+									<div class="product-inner equal-elem">
+										<ul class="group-flash">
+											<li><span class="sale flash">-50%</span></li>
+										</ul>
+										<div class="thumb">
+											<a href="#" class="quickview-button"><span class="icon"><i class="fa fa-eye" aria-hidden="true"></i></span> Quick View</a>
+											<a href="detail.html" class="thumb-link"><img src="<?php echo base_url();?>tools/images/product5.jpg" alt=""></a>
+										</div>
+										<div class="info">
+											<a href="detail.html" class="product-name">Best Accessories- SteelSeries NIMBUS Controlle</a>
+											<div class="price">
+												<span class="del">$500.00</span>
+												<span class="ins">$250.00</span>
+											</div>
+										</div>
+										<div class="group-button">
+											<div class="inner">
+											<a href="#" class="add-to-cart"><span class="text">ADD TO CART</span><span class="icon"><i class="fa fa-cart-arrow-down" aria-hidden="true"></i></span></a>
+											<a href="#" class="compare-button"><i class="fa fa-exchange" aria-hidden="true"></i></a>
+											<a href="#" class="wishlist-button"><i class="fa fa-heart-o" aria-hidden="true"></i></a>
+											</div>
+										</div>
+									</div>
+								</div>
+								<div class="product-item layout1">
+									<div class="product-inner equal-elem">
+										<div class="thumb">
+											<a href="#" class="quickview-button"><span class="icon"><i class="fa fa-eye" aria-hidden="true"></i></span> Quick View</a>
+											<a href="detail.html" class="thumb-link"><img src="<?php echo base_url();?>tools/images/product6.jpg" alt=""></a>
+										</div>
+										<div class="info">
+											<a href="detail.html" class="product-name">Headphone </a>
+											<div class="price">
+												<span >$450.00</span>
+											</div>
+										</div>
+										<div class="group-button">
+											<div class="inner">
+											<a href="#" class="add-to-cart"><span class="text">ADD TO CART</span><span class="icon"><i class="fa fa-cart-arrow-down" aria-hidden="true"></i></span></a>
+											<a href="#" class="compare-button"><i class="fa fa-exchange" aria-hidden="true"></i></a>
+											<a href="#" class="wishlist-button"><i class="fa fa-heart-o" aria-hidden="true"></i></a>
+											</div>
+										</div>
+									</div>
+								</div>
 							</div>
-							<ul class="page_menu_nav">
-								<li class="page_menu_item has-children">
-									<a href="#">Language<i class="fa fa-angle-down"></i></a>
-									<ul class="page_menu_selection">
-										<li><a href="#">English<i class="fa fa-angle-down"></i></a></li>
-										<li><a href="#">Italian<i class="fa fa-angle-down"></i></a></li>
-										<li><a href="#">Spanish<i class="fa fa-angle-down"></i></a></li>
-										<li><a href="#">Japanese<i class="fa fa-angle-down"></i></a></li>
-									</ul>
-								</li>
-								<li class="page_menu_item has-children">
-									<a href="#">Currency<i class="fa fa-angle-down"></i></a>
-									<ul class="page_menu_selection">
-										<li><a href="#">US Dollar<i class="fa fa-angle-down"></i></a></li>
-										<li><a href="#">EUR Euro<i class="fa fa-angle-down"></i></a></li>
-										<li><a href="#">GBP British Pound<i class="fa fa-angle-down"></i></a></li>
-										<li><a href="#">JPY Japanese Yen<i class="fa fa-angle-down"></i></a></li>
-									</ul>
-								</li>
-								<li class="page_menu_item">
-									<a href="#">Home<i class="fa fa-angle-down"></i></a>
-								</li>
-								<li class="page_menu_item has-children">
-									<a href="#">Super Deals<i class="fa fa-angle-down"></i></a>
-									<ul class="page_menu_selection">
-										<li><a href="#">Super Deals<i class="fa fa-angle-down"></i></a></li>
-										<li class="page_menu_item has-children">
-											<a href="#">Menu Item<i class="fa fa-angle-down"></i></a>
-											<ul class="page_menu_selection">
-												<li><a href="#">Menu Item<i class="fa fa-angle-down"></i></a></li>
-												<li><a href="#">Menu Item<i class="fa fa-angle-down"></i></a></li>
-												<li><a href="#">Menu Item<i class="fa fa-angle-down"></i></a></li>
-												<li><a href="#">Menu Item<i class="fa fa-angle-down"></i></a></li>
-											</ul>
-										</li>
-										<li><a href="#">Menu Item<i class="fa fa-angle-down"></i></a></li>
-										<li><a href="#">Menu Item<i class="fa fa-angle-down"></i></a></li>
-										<li><a href="#">Menu Item<i class="fa fa-angle-down"></i></a></li>
-									</ul>
-								</li>
-								<li class="page_menu_item has-children">
-									<a href="#">Featured Brands<i class="fa fa-angle-down"></i></a>
-									<ul class="page_menu_selection">
-										<li><a href="#">Featured Brands<i class="fa fa-angle-down"></i></a></li>
-										<li><a href="#">Menu Item<i class="fa fa-angle-down"></i></a></li>
-										<li><a href="#">Menu Item<i class="fa fa-angle-down"></i></a></li>
-										<li><a href="#">Menu Item<i class="fa fa-angle-down"></i></a></li>
-									</ul>
-								</li>
-								<li class="page_menu_item has-children">
-									<a href="#">Trending Styles<i class="fa fa-angle-down"></i></a>
-									<ul class="page_menu_selection">
-										<li><a href="#">Trending Styles<i class="fa fa-angle-down"></i></a></li>
-										<li><a href="#">Menu Item<i class="fa fa-angle-down"></i></a></li>
-										<li><a href="#">Menu Item<i class="fa fa-angle-down"></i></a></li>
-										<li><a href="#">Menu Item<i class="fa fa-angle-down"></i></a></li>
-									</ul>
-								</li>
-								<li class="page_menu_item"><a href="blog.html">blog<i class="fa fa-angle-down"></i></a></li>
-								<li class="page_menu_item"><a href="contact.html">contact<i class="fa fa-angle-down"></i></a></li>
-							</ul>
-							
-							<div class="menu_contact">
-								<div class="menu_contact_item"><div class="menu_contact_icon"><img src="<?php echo base_url();?>tools/images/phone_white.png" alt=""></div>+38 068 005 3570</div>
-								<div class="menu_contact_item"><div class="menu_contact_icon"><img src="<?php echo base_url();?>tools/images/mail_white.png" alt=""></div><a href="mailto:fastsales@gmail.com">fastsales@gmail.com</a></div>
+						</div>
+					</div>
+				</div>
+			</div>	
+		</div>
+		<!--/List Products-->
+
+		<!--List Products 2-->
+		<div class="group-product layout1">
+			<div class="kt-tab nav-tab-style1">
+				<div class="section-head box-has-content">
+					<h4 class="section-title">PRODUCTOS DESTACADOS</h4>
+					<ul class="nav list-nav">
+					<li class="active"><a data-animated="pulse" data-toggle="pill" href="#tab1">Todo</a></li>
+						<li><a data-animated="fadeIn" data-toggle="pill" href="#tab2">Telefonía</a></li>
+						<li><a data-animated="fadeInDown" data-toggle="pill" href="#tab1">Computación </a></li>
+						<li><a data-animated="fadeInUp" data-toggle="pill" href="#tab2">Accesorios </a></li>
+					</ul>
+				</div>
+				<div class="section-content">
+					<div class="tab-content">
+						<div id="tab1" class="tab-panel active">
+							<div class="owl-carousel product-list-owl nav-style2 equal-container" data-autoplay="false" data-nav="true" data-dots="false" data-loop="false" data-slidespeed="800" data-margin="0"  data-responsive = '{"0":{"items":1}, "480":{"items":2,"margin":0}, "640":{"items":3,"margin":-1}, "992":{"items":4}, "1200":{"items":5}}'>
+								<div class="product-item layout1">
+									<div class="product-inner equal-elem">
+										<div class="thumb">
+											<a href="#" class="quickview-button"><span class="icon"><i class="fa fa-eye" aria-hidden="true"></i></span> Quick View</a>
+											<a href="detail.html" class="thumb-link"><img src="<?php echo base_url();?>tools/images/product1.jpg" alt=""></a>
+										</div>
+										<div class="info">
+											<a href="detail.html" class="product-name">Rubberized Hard Case Older MacBook Pro 13.3"</a>
+											<div class="price">
+												<span>$350.00</span>
+											</div>
+										</div>
+										<div class="group-button">
+											<div class="inner">
+												<a href="#" class="add-to-cart"><span class="text">ADD TO CART</span><span class="icon"><i class="fa fa-cart-arrow-down" aria-hidden="true"></i></span></a>
+												<a href="#" class="compare-button"><i class="fa fa-exchange" aria-hidden="true"></i></a>
+												<a href="#" class="wishlist-button"><i class="fa fa-heart-o" aria-hidden="true"></i></a>
+											</div>
+										</div>
+									</div>
+								</div>
+								<div class="product-item layout1">
+									<div class="product-inner equal-elem">
+										<ul class="group-flash">
+											<li><span class="new flash">NUEVO</span></li>
+										</ul>											
+										<div class="thumb">
+											<a href="#" class="quickview-button"><span class="icon"><i class="fa fa-eye" aria-hidden="true"></i></span> Quick View</a>
+											<a href="detail.html" class="thumb-link"><img src="<?php echo base_url();?>tools/images/product2.jpg" alt=""></a>
+										</div>
+										<div class="info">
+											<a href="detail.html" class="product-name">Smartphone RAM 4 GB New</a>
+											<div class="price">
+												<span >$350.00</span>
+											</div>
+										</div>
+										<div class="group-button">
+											<div class="inner">
+											<a href="#" class="add-to-cart"><span class="text">ADD TO CART</span><span class="icon"><i class="fa fa-cart-arrow-down" aria-hidden="true"></i></span></a>
+											<a href="#" class="compare-button"><i class="fa fa-exchange" aria-hidden="true"></i></a>
+											<a href="#" class="wishlist-button"><i class="fa fa-heart-o" aria-hidden="true"></i></a>
+											</div>
+										</div>
+									</div>
+								</div>
+								<div class="product-item layout1">
+									<div class="product-inner equal-elem">
+										<ul class="group-flash">
+											<li><span class="sale flash">-50%</span></li>
+											<li><span class="best flash">Exito en Ventas</span></li>
+										</ul>
+										<div class="thumb">
+											<a href="#" class="quickview-button"><span class="icon"><i class="fa fa-eye" aria-hidden="true"></i></span> Quick View</a>
+											<a href="detail.html" class="thumb-link"><img src="<?php echo base_url();?>tools/images/product3.jpg" alt=""></a>
+										</div>
+										<div class="info">
+											<a href="detail.html" class="product-name">Fujifilm INSTAX Mini 8 Instant Camera (White)</a>
+											<div class="price">
+												<span class="del">$700.00</span>
+												<span class="ins">$350.00</span>
+											</div>
+										</div>
+										<div class="group-button">
+											<div class="inner">
+											<a href="#" class="add-to-cart"><span class="text">ADD TO CART</span><span class="icon"><i class="fa fa-cart-arrow-down" aria-hidden="true"></i></span></a>
+											<a href="#" class="compare-button"><i class="fa fa-exchange" aria-hidden="true"></i></a>
+											<a href="#" class="wishlist-button"><i class="fa fa-heart-o" aria-hidden="true"></i></a>
+											</div>
+										</div>
+									</div>
+								</div>
+								<div class="product-item layout1">
+									<div class="product-inner equal-elem">
+										<div class="thumb">
+											<a href="#" class="quickview-button"><span class="icon"><i class="fa fa-eye" aria-hidden="true"></i></span> Quick View</a>
+											<a href="detail.html" class="thumb-link"><img src="<?php echo base_url();?>tools/images/product4.jpg" alt=""></a>
+										</div>
+										<div class="info">
+											<a href="detail.html" class="product-name">PC Prox 21.5-inch and 27-inch (Late 2018) reviews</a>
+											<div class="price">
+												<span >$550.00</span>
+											</div>
+										</div>
+										<div class="group-button">
+											<div class="inner">
+											<a href="#" class="add-to-cart"><span class="text">ADD TO CART</span><span class="icon"><i class="fa fa-cart-arrow-down" aria-hidden="true"></i></span></a>
+											<a href="#" class="compare-button"><i class="fa fa-exchange" aria-hidden="true"></i></a>
+											<a href="#" class="wishlist-button"><i class="fa fa-heart-o" aria-hidden="true"></i></a>
+											</div>
+										</div>
+									</div>
+								</div>
+								<div class="product-item layout1">
+									<div class="product-inner equal-elem">
+										<ul class="group-flash">
+											<li><span class="sale flash">-50%</span></li>
+										</ul>
+										<div class="thumb">
+											<a href="#" class="quickview-button"><span class="icon"><i class="fa fa-eye" aria-hidden="true"></i></span> Quick View</a>
+											<a href="detail.html" class="thumb-link"><img src="<?php echo base_url();?>tools/images/product5.jpg" alt=""></a>
+										</div>
+										<div class="info">
+											<a href="detail.html" class="product-name">Best Accessories- SteelSeries NIMBUS Controlle</a>
+											<div class="price">
+												<span class="del">$500.00</span>
+												<span class="ins">$250.00</span>
+											</div>
+										</div>
+										<div class="group-button">
+											<div class="inner">
+											<a href="#" class="add-to-cart"><span class="text">ADD TO CART</span><span class="icon"><i class="fa fa-cart-arrow-down" aria-hidden="true"></i></span></a>
+											<a href="#" class="compare-button"><i class="fa fa-exchange" aria-hidden="true"></i></a>
+											<a href="#" class="wishlist-button"><i class="fa fa-heart-o" aria-hidden="true"></i></a>
+											</div>
+										</div>
+									</div>
+								</div>
+								<div class="product-item layout1">
+									<div class="product-inner equal-elem">
+										<div class="thumb">
+											<a href="#" class="quickview-button"><span class="icon"><i class="fa fa-eye" aria-hidden="true"></i></span> Quick View</a>
+											<a href="detail.html" class="thumb-link"><img src="<?php echo base_url();?>tools/images/product6.jpg" alt=""></a>
+										</div>
+										<div class="info">
+											<a href="detail.html" class="product-name">Headphone </a>
+											<div class="price">
+												<span >$450.00</span>
+											</div>
+										</div>
+										<div class="group-button">
+											<div class="inner">
+											<a href="#" class="add-to-cart"><span class="text">ADD TO CART</span><span class="icon"><i class="fa fa-cart-arrow-down" aria-hidden="true"></i></span></a>
+											<a href="#" class="compare-button"><i class="fa fa-exchange" aria-hidden="true"></i></a>
+											<a href="#" class="wishlist-button"><i class="fa fa-heart-o" aria-hidden="true"></i></a>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+						<div id="tab2" class="tab-panel">
+							<div class="owl-carousel product-list-owl nav-style2 equal-container" data-autoplay="false" data-nav="true" data-dots="false" data-loop="false" data-slidespeed="800" data-margin="0"  data-responsive = '{"0":{"items":1}, "480":{"items":2,"margin":0}, "640":{"items":3,"margin":-1}, "992":{"items":4}, "1200":{"items":5}}'>
+								<div class="product-item layout1">
+									<div class="product-inner equal-elem">
+										<div class="thumb">
+											<a href="#" class="quickview-button"><span class="icon"><i class="fa fa-eye" aria-hidden="true"></i></span> Quick View</a>
+											<a href="detail.html" class="thumb-link"><img src="<?php echo base_url();?>tools/images/product1.jpg" alt=""></a>
+										</div>
+										<div class="info">
+											<a href="detail.html" class="product-name">MacBook Pro 13.3"</a>
+											<div class="price">
+												<span>$350.00</span>
+											</div>
+										</div>
+										<div class="group-button">
+											<div class="inner">
+												<a href="#" class="add-to-cart"><span class="text">ADD TO CART</span><span class="icon"><i class="fa fa-cart-arrow-down" aria-hidden="true"></i></span></a>
+												<a href="#" class="compare-button"><i class="fa fa-exchange" aria-hidden="true"></i></a>
+												<a href="#" class="wishlist-button"><i class="fa fa-heart-o" aria-hidden="true"></i></a>
+											</div>
+										</div>
+									</div>
+								</div>
+								<div class="product-item layout1">
+									<div class="product-inner equal-elem">
+										<ul class="group-flash">
+											<li><span class="new flash">NUEVO</span></li>
+										</ul>											
+										<div class="thumb">
+											<a href="#" class="quickview-button"><span class="icon"><i class="fa fa-eye" aria-hidden="true"></i></span> Quick View</a>
+											<a href="detail.html" class="thumb-link"><img src="<?php echo base_url();?>tools/images/product2.jpg" alt=""></a>
+										</div>
+										<div class="info">
+											<a href="detail.html" class="product-name">Smartphone RAM 4 GB New</a>
+											<div class="price">
+												<span >$350.00</span>
+											</div>
+										</div>
+										<div class="group-button">
+											<div class="inner">
+											<a href="#" class="add-to-cart"><span class="text">ADD TO CART</span><span class="icon"><i class="fa fa-cart-arrow-down" aria-hidden="true"></i></span></a>
+											<a href="#" class="compare-button"><i class="fa fa-exchange" aria-hidden="true"></i></a>
+											<a href="#" class="wishlist-button"><i class="fa fa-heart-o" aria-hidden="true"></i></a>
+											</div>
+										</div>
+									</div>
+								</div>
+								<div class="product-item layout1">
+									<div class="product-inner equal-elem">
+										<ul class="group-flash">
+											<li><span class="sale flash">-50%</span></li>
+											<li><span class="best flash">Exito en Ventas</span></li>
+										</ul>
+										<div class="thumb">
+											<a href="#" class="quickview-button"><span class="icon"><i class="fa fa-eye" aria-hidden="true"></i></span> Quick View</a>
+											<a href="detail.html" class="thumb-link"><img src="<?php echo base_url();?>tools/images/product3.jpg" alt=""></a>
+										</div>
+										<div class="info">
+											<a href="detail.html" class="product-name">Camara Fujifilm INSTAX Mini 8 Instant </a>
+											<div class="price">
+												<span class="del">$700.00</span>
+												<span class="ins">$350.00</span>
+											</div>
+										</div>
+										<div class="group-button">
+											<div class="inner">
+											<a href="#" class="add-to-cart"><span class="text">ADD TO CART</span><span class="icon"><i class="fa fa-cart-arrow-down" aria-hidden="true"></i></span></a>
+											<a href="#" class="compare-button"><i class="fa fa-exchange" aria-hidden="true"></i></a>
+											<a href="#" class="wishlist-button"><i class="fa fa-heart-o" aria-hidden="true"></i></a>
+											</div>
+										</div>
+									</div>
+								</div>
+								<div class="product-item layout1">
+									<div class="product-inner equal-elem">
+										<div class="thumb">
+											<a href="#" class="quickview-button"><span class="icon"><i class="fa fa-eye" aria-hidden="true"></i></span> Quick View</a>
+											<a href="detail.html" class="thumb-link"><img src="<?php echo base_url();?>tools/images/product4.jpg" alt=""></a>
+										</div>
+										<div class="info">
+											<a href="detail.html" class="product-name">iMAC 20' RAM 16 GB SSD 512 GB</a>
+											<div class="price">
+												<span >$550.00</span>
+											</div>
+										</div>
+										<div class="group-button">
+											<div class="inner">
+											<a href="#" class="add-to-cart"><span class="text">ADD TO CART</span><span class="icon"><i class="fa fa-cart-arrow-down" aria-hidden="true"></i></span></a>
+											<a href="#" class="compare-button"><i class="fa fa-exchange" aria-hidden="true"></i></a>
+											<a href="#" class="wishlist-button"><i class="fa fa-heart-o" aria-hidden="true"></i></a>
+											</div>
+										</div>
+									</div>
+								</div>
+								<div class="product-item layout1">
+									<div class="product-inner equal-elem">
+										<ul class="group-flash">
+											<li><span class="sale flash">-50%</span></li>
+										</ul>
+										<div class="thumb">
+											<a href="#" class="quickview-button"><span class="icon"><i class="fa fa-eye" aria-hidden="true"></i></span> Quick View</a>
+											<a href="detail.html" class="thumb-link"><img src="<?php echo base_url();?>tools/images/product5.jpg" alt=""></a>
+										</div>
+										<div class="info">
+											<a href="detail.html" class="product-name">Control Bluetooth Recargable USB</a>
+											<div class="price">
+												<span class="del">$500.00</span>
+												<span class="ins">$250.00</span>
+											</div>
+										</div>
+										<div class="group-button">
+											<div class="inner">
+											<a href="#" class="add-to-cart"><span class="text">ADD TO CART</span><span class="icon"><i class="fa fa-cart-arrow-down" aria-hidden="true"></i></span></a>
+											<a href="#" class="compare-button"><i class="fa fa-exchange" aria-hidden="true"></i></a>
+											<a href="#" class="wishlist-button"><i class="fa fa-heart-o" aria-hidden="true"></i></a>
+											</div>
+										</div>
+									</div>
+								</div>
+								<div class="product-item layout1">
+									<div class="product-inner equal-elem">
+										<div class="thumb">
+											<a href="#" class="quickview-button"><span class="icon"><i class="fa fa-eye" aria-hidden="true"></i></span> Quick View</a>
+											<a href="detail.html" class="thumb-link"><img src="<?php echo base_url();?>tools/images/product6.jpg" alt=""></a>
+										</div>
+										<div class="info">
+											<a href="detail.html" class="product-name">Headphone </a>
+											<div class="price">
+												<span >$450.00</span>
+											</div>
+										</div>
+										<div class="group-button">
+											<div class="inner">
+											<a href="#" class="add-to-cart"><span class="text">ADD TO CART</span><span class="icon"><i class="fa fa-cart-arrow-down" aria-hidden="true"></i></span></a>
+											<a href="#" class="compare-button"><i class="fa fa-exchange" aria-hidden="true"></i></a>
+											<a href="#" class="wishlist-button"><i class="fa fa-heart-o" aria-hidden="true"></i></a>
+											</div>
+										</div>
+									</div>
+								</div>
 							</div>
 						</div>
 					</div>
 				</div>
+			</div>	
+		</div>
+		<!--/List Products 2-->
+
+
+
+		<!--Logo Brand-->
+		<div class="brand">
+			<div class="owl-carousel" data-autoplay="false" data-nav="false" data-dots="false" data-loop="false" data-slidespeed="800" data-margin="30"  data-responsive = '{"0":{"items":2}, "640":{"items":2}, "768":{"items":3}, "992":{"items":4}, "1200":{"items":5}}'>
+				<div class="brand-item"><a href="#"><img src="<?php echo base_url();?>tools/images/brand1.jpg" alt=""></a></div>
+				<div class="brand-item"><a href="#"><img src="<?php echo base_url();?>tools/images/brand1.jpg" alt=""></a></div>
+				<div class="brand-item"><a href="#"><img src="<?php echo base_url();?>tools/images/brand1.jpg" alt=""></a></div>
+				<div class="brand-item"><a href="#"><img src="<?php echo base_url();?>tools/images/brand1.jpg" alt=""></a></div>
+				<div class="brand-item"><a href="#"><img src="<?php echo base_url();?>tools/images/brand1.jpg" alt=""></a></div>
 			</div>
 		</div>
+		<!--/Logo brand-->
 
-	</header>
-	
-	<!-- Banner -->
-
-	<div class="banner">
-		<div class="banner_background" style="background-image:url(<?php echo base_url();?>tools/images/banner_background.jpg)"></div>
-		<div class="container fill_height">
-			<div class="row fill_height">
-				<div class="banner_product_image"><img src="<?php echo base_url();?>tools/images/banner_product.png" alt=""></div>
-				<div class="col-lg-5 offset-lg-4 fill_height">
-					<div class="banner_content">
-						<h1 class="banner_text">new era of smartphones</h1>
-						<div class="banner_price"><span>$530</span>$460</div>
-						<div class="banner_product_name">Apple Iphone 6s</div>
-						<div class="button banner_button"><a href="#">Shop Now</a></div>
+		<!--Recent Post-->
+		<div class="post">
+			<div class="row">
+				<div class="col-xs-12 col-sm-4 col-md-4">
+					<div class="widget widget-recent-post">
+						<h5 class="widgettitle">Más Vistos</h5>
+						<ul class="list-recent-posts">
+							<li class="product-item">
+								<div class="thumb"><a href="detail.html"><img src="<?php echo base_url();?>tools/images/small-product1.jpg" alt=""></a></div>
+								<div class="info">
+									<a href="detail.html" class="product-name">Fujifilm INSTAX Mini 8 Instant Camera</a>
+									<div class="price">
+										<span class="del">$700.00</span>
+										<span class="ins">$350</span>
+									</div>
+								</div>
+							</li>
+							<li class="product-item">
+								<div class="thumb"><a href="detail.html"><img src="<?php echo base_url();?>tools/images/small-product2.jpg" alt=""></a></div>
+								<div class="info">
+									<a href="detail.html" class="product-name">Control Bluetooth Recargable USB</a>
+									<div class="price">
+										<span>$100</span>
+									</div>
+								</div>
+							</li>
+							<li class="product-item">
+								<div class="thumb"><a href="detail.html"><img src="<?php echo base_url();?>tools/images/small-product3.jpg" alt=""></a></div>
+								<div class="info">
+									<a href="detail.html" class="product-name">Smartphone RAM 4 GB New</a>
+									<div class="price">
+										<span >$350.00</span>
+									</div>
+								</div>
+							</li>
+						</ul>
+					</div>
+				</div>
+				<div class="col-xs-12 col-sm-4 col-md-4">
+					<div class="widget widget-recent-post">
+						<h5 class="widgettitle">Pocas Unidades</h5>
+						<ul class="list-recent-posts">
+							<li class="product-item">
+								<div class="thumb"><a href="detail.html"><img src="<?php echo base_url();?>tools/images/small-product4.jpg" alt=""></a></div>
+								<div class="info">
+									<a href="detail.html" class="product-name">Smartphone RAM 4 GB New</a>
+									<div class="price">
+										<span class="del">$500.00</span>
+										<span class="ins">$250</span>
+									</div>
+								</div>
+							</li>
+							<li class="product-item">
+								<div class="thumb"><a href="detail.html"><img src="<?php echo base_url();?>tools/images/small-product5.jpg" alt=""></a></div>
+								<div class="info">
+									<a href="detail.html" class="product-name">Smartphone RAM 4 GB New</a>
+									<div class="price">
+										<span class="del">$700.00</span>
+										<span class="ins">$350</span>
+									</div>
+								</div>
+							</li>
+							<li class="product-item">
+								<div class="thumb"><a href="detail.html"><img src="<?php echo base_url();?>tools/images/small-product6.jpg" alt=""></a></div>
+								<div class="info">
+									<a href="detail.html" class="product-name">Control Bluetooth Recargable USB</a>
+									<div class="price">
+										<span class="del">$400.00</span>
+										<span class="ins">$200</span>
+									</div>
+								</div>
+							</li>
+						</ul>
+					</div>
+				</div>
+				<div class="col-xs-12 col-sm-4 col-md-4">
+					<div class="widget widget-recent-post">
+						<h5 class="widgettitle">Recién Llegados</h5>
+						<ul class="list-recent-posts">
+							<li class="product-item">
+								<div class="thumb"><a href="detail.html"><img src="<?php echo base_url();?>tools/images/small-product7.jpg" alt=""></a></div>
+								<div class="info">
+									<a href="detail.html" class="product-name">iMAC 20 RAM 16 GB</a>
+									<div class="price">
+										<span>$370</span>
+									</div>
+								</div>
+							</li>
+							<li class="product-item">
+								<div class="thumb"><a href="detail.html"><img src="<?php echo base_url();?>tools/images/small-product8.jpg" alt=""></a></div>
+								<div class="info">
+									<a href="detail.html" class="product-name">Bravia KLV-32W562D 32 Smart TV</a>
+									<div class="price">
+										<span >$1000</span>
+									</div>
+								</div>
+							</li>
+							<li class="product-item">
+								<div class="thumb"><a href="detail.html"><img src="<?php echo base_url();?>tools/images/small-product9.jpg" alt=""></a></div>
+								<div class="info">
+									<a href="detail.html" class="product-name"> Bravia KLV-32W562D 32 Smart TV</a>
+									<div class="price">
+										<span>$850</span>
+									</div>
+								</div>
+							</li>
+						</ul>
 					</div>
 				</div>
 			</div>
 		</div>
+		<!--/Recent Post-->
 	</div>
-
-	<!-- Characteristics -->
-
-	<div class="characteristics">
-		<div class="container">
-			<div class="row">
-
-				<!-- Char. Item -->
-				<div class="col-lg-3 col-md-6 char_col">
-					
-					<div class="char_item d-flex flex-row align-items-center justify-content-start">
-						<div class="char_icon"><img src="<?php echo base_url();?>tools/images/char_1.png" alt=""></div>
-						<div class="char_content">
-							<div class="char_title">Free Delivery</div>
-							<div class="char_subtitle">from $50</div>
-						</div>
-					</div>
-				</div>
-
-				<!-- Char. Item -->
-				<div class="col-lg-3 col-md-6 char_col">
-					
-					<div class="char_item d-flex flex-row align-items-center justify-content-start">
-						<div class="char_icon"><img src="<?php echo base_url();?>tools/images/char_2.png" alt=""></div>
-						<div class="char_content">
-							<div class="char_title">Free Delivery</div>
-							<div class="char_subtitle">from $50</div>
-						</div>
-					</div>
-				</div>
-
-				<!-- Char. Item -->
-				<div class="col-lg-3 col-md-6 char_col">
-					
-					<div class="char_item d-flex flex-row align-items-center justify-content-start">
-						<div class="char_icon"><img src="<?php echo base_url();?>tools/images/char_3.png" alt=""></div>
-						<div class="char_content">
-							<div class="char_title">Free Delivery</div>
-							<div class="char_subtitle">from $50</div>
-						</div>
-					</div>
-				</div>
-
-				<!-- Char. Item -->
-				<div class="col-lg-3 col-md-6 char_col">
-					
-					<div class="char_item d-flex flex-row align-items-center justify-content-start">
-						<div class="char_icon"><img src="<?php echo base_url();?>tools/images/char_4.png" alt=""></div>
-						<div class="char_content">
-							<div class="char_title">Free Delivery</div>
-							<div class="char_subtitle">from $50</div>
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>
-	</div>
-
-
-
-	<!-- Brands -->
-
-	<div class="brands">
-		<div class="container">
-			<div class="row">
-				<div class="col">
-					<div class="brands_slider_container">
-						
-						<!-- Brands Slider -->
-
-						<div class="owl-carousel owl-theme brands_slider">
-							
-							<div class="owl-item"><div class="brands_item d-flex flex-column justify-content-center"><img src="<?php echo base_url();?>tools/images/brands_1.jpg" alt=""></div></div>
-							<div class="owl-item"><div class="brands_item d-flex flex-column justify-content-center"><img src="<?php echo base_url();?>tools/images/brands_2.jpg" alt=""></div></div>
-							<div class="owl-item"><div class="brands_item d-flex flex-column justify-content-center"><img src="<?php echo base_url();?>tools/images/brands_3.jpg" alt=""></div></div>
-							<div class="owl-item"><div class="brands_item d-flex flex-column justify-content-center"><img src="<?php echo base_url();?>tools/images/brands_4.jpg" alt=""></div></div>
-							<div class="owl-item"><div class="brands_item d-flex flex-column justify-content-center"><img src="<?php echo base_url();?>tools/images/brands_5.jpg" alt=""></div></div>
-							<div class="owl-item"><div class="brands_item d-flex flex-column justify-content-center"><img src="<?php echo base_url();?>tools/images/brands_6.jpg" alt=""></div></div>
-							<div class="owl-item"><div class="brands_item d-flex flex-column justify-content-center"><img src="<?php echo base_url();?>tools/images/brands_7.jpg" alt=""></div></div>
-							<div class="owl-item"><div class="brands_item d-flex flex-column justify-content-center"><img src="<?php echo base_url();?>tools/images/brands_8.jpg" alt=""></div></div>
-
-						</div>
-						
-						<!-- Brands Slider Navigation -->
-						<div class="brands_nav brands_prev"><i class="fas fa-chevron-left"></i></div>
-						<div class="brands_nav brands_next"><i class="fas fa-chevron-right"></i></div>
-
-					</div>
-				</div>
-			</div>
-		</div>
-	</div>
-
-
-
-	<!-- Footer -->
-
-	<footer class="footer">
-		<div class="container">
-			<div class="row">
-
-				<div class="col-lg-3 footer_col">
-					<div class="footer_column footer_contact">
-						<div class="logo_container">
-							<div class="logo"><a href="#">OneTech</a></div>
-						</div>
-						<div class="footer_title">Got Question? Call Us 24/7</div>
-						<div class="footer_phone">+38 068 005 3570</div>
-						<div class="footer_contact_text">
-							<p>17 Princess Road, London</p>
-							<p>Grester London NW18JR, UK</p>
-						</div>
-						<div class="footer_social">
-							<ul>
-								<li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
-								<li><a href="#"><i class="fab fa-twitter"></i></a></li>
-								<li><a href="#"><i class="fab fa-youtube"></i></a></li>
-								<li><a href="#"><i class="fab fa-google"></i></a></li>
-								<li><a href="#"><i class="fab fa-vimeo-v"></i></a></li>
-							</ul>
-						</div>
-					</div>
-				</div>
-
-				<div class="col-lg-2 offset-lg-2">
-					<div class="footer_column">
-						<div class="footer_title">Find it Fast</div>
-						<ul class="footer_list">
-							<li><a href="#">Computers & Laptops</a></li>
-							<li><a href="#">Cameras & Photos</a></li>
-							<li><a href="#">Hardware</a></li>
-							<li><a href="#">Smartphones & Tablets</a></li>
-							<li><a href="#">TV & Audio</a></li>
-						</ul>
-						<div class="footer_subtitle">Gadgets</div>
-						<ul class="footer_list">
-							<li><a href="#">Car Electronics</a></li>
-						</ul>
-					</div>
-				</div>
-
-				<div class="col-lg-2">
-					<div class="footer_column">
-						<ul class="footer_list footer_list_2">
-							<li><a href="#">Video Games & Consoles</a></li>
-							<li><a href="#">Accessories</a></li>
-							<li><a href="#">Cameras & Photos</a></li>
-							<li><a href="#">Hardware</a></li>
-							<li><a href="#">Computers & Laptops</a></li>
-						</ul>
-					</div>
-				</div>
-
-				<div class="col-lg-2">
-					<div class="footer_column">
-						<div class="footer_title">Customer Care</div>
-						<ul class="footer_list">
-							<li><a href="#">My Account</a></li>
-							<li><a href="#">Order Tracking</a></li>
-							<li><a href="#">Wish List</a></li>
-							<li><a href="#">Customer Services</a></li>
-							<li><a href="#">Returns / Exchange</a></li>
-							<li><a href="#">FAQs</a></li>
-							<li><a href="#">Product Support</a></li>
-						</ul>
-					</div>
-				</div>
-
-			</div>
-		</div>
-	</footer>
-
-
-
-
-	<!-- Copyright -->
-
-	<div class="copyright">
-		<div class="container">
-			<div class="row">
-				<div class="col">
-					
-					<div class="copyright_container d-flex flex-sm-row flex-column align-items-center justify-content-start">
-						<div class="copyright_content"><!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | This template is made with <i class="fa fa-heart" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank">Colorlib</a>
-<!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
 </div>
-						<div class="logos ml-sm-auto">
-							<ul class="logos_list">
-								<li><a href="#"><img src="<?php echo base_url();?>tools/images/logos_1.png" alt=""></a></li>
-								<li><a href="#"><img src="<?php echo base_url();?>tools/images/logos_2.png" alt=""></a></li>
-								<li><a href="#"><img src="<?php echo base_url();?>tools/images/logos_3.png" alt=""></a></li>
-								<li><a href="#"><img src="<?php echo base_url();?>tools/images/logos_4.png" alt=""></a></li>
-							</ul>
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>
-	</div>
-</div>
+<!--/Content-->

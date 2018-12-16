@@ -1,14 +1,14 @@
 <!DOCTYPE html>
 <html lang="es">
 <head>
-<title>OneTech</title>
+<title>B2B</title>
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
-<meta name="description" content="OneTech shop project">
+<meta name="description" content="Proyecto B2B Usuario ZOFRI">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
 <link rel="stylesheet" type="text/css" href="tools/styles/bootstrap4/bootstrap.min.css">
-<link rel="stylesheet" type="text/css" href="tools/plugins/fontawesome-free-5.0.1/css/fontawesome-all.css" >
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.1/css/all.css" integrity="sha384-gfdkjb5BdAXd+lj+gudLWI+BXq4IuLW5IT+brZEZsLFm++aCMlF1V92rMkPaX4PP" crossorigin="anonymous">
 <link rel="stylesheet" type="text/css" href="tools/plugins/OwlCarousel2-2.2.1/owl.carousel.css">
 <link rel="stylesheet" type="text/css" href="tools/plugins/OwlCarousel2-2.2.1/owl.theme.default.css">
 <link rel="stylesheet" type="text/css" href="tools/plugins/OwlCarousel2-2.2.1/animate.css">
@@ -77,7 +77,7 @@
 					<!-- Logo -->
 					<div class="col-lg-2 col-sm-3 col-3 order-1">
 						<div class="logo_container">
-							<div class="logo"><a href="#">OneShop</a></div>
+							<div class="logo"><a href="#">B2B</a></div>
 						</div>
 					</div>
 
@@ -190,9 +190,6 @@
 							<div class="main_nav_menu ml-auto">
 								<ul class="standard_dropdown main_nav_dropdown">
 									<li><a href="#">Home<i class="fas fa-chevron-down"></i></a></li>
-									<li><a href="#">Proveedores<i class="fas fa-chevron-down"></i></a></li>
-									<li><a href="#">Vender<i class="fas fa-chevron-down"></i></a></li>
-									<li><a href="#">Ofertas<i class="fas fa-chevron-down"></i></a></li>
 									<li class="hassubs">
 										<a href="#">Ayuda<i class="fas fa-chevron-down"></i></a>
 										<ul>
@@ -202,6 +199,10 @@
 											<li><a href="blog_single.html">Transporte<i class="fas fa-chevron-down"></i></a></li>
 										</ul>
 									</li>
+									<li><a href="#">Proveedores<i class="fas fa-chevron-down"></i></a></li>
+									<li><a href="#">Vender<i class="fas fa-chevron-down"></i></a></li>
+									<li><a href="#">Ofertas<i class="fas fa-chevron-down"></i></a></li>
+
 								</ul>
 							</div>
 
