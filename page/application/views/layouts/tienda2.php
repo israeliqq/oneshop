@@ -10,7 +10,7 @@
 <link href="<?php echo base_url();?>tools/css/owl.carousel.min.css"       rel="stylesheet" type="text/css">
 <link href="<?php echo base_url();?>tools/css/font-awesome.min.css"       rel="stylesheet" type="text/css"> 
 <link href="<?php echo base_url();?>tools/css/animate.min.css"            rel="stylesheet" type="text/css">
-<!--<link href="<?php echo base_url();?>tools/css/magnific-popup.min.css"     rel="stylesheet" type="text/css">-->
+<link href="<?php echo base_url();?>tools/css/magnific-popup.min.css"     rel="stylesheet" type="text/css">
 <link href="<?php echo base_url();?>tools/css/jquery-ui.min.css"          rel="stylesheet" type="text/css">
 <link href="<?php echo base_url();?>tools/css/jquery.scrollbar.min.css"   rel="stylesheet" type="text/css">
 <link href="<?php echo base_url();?>tools/css/chosen.min.css"             rel="stylesheet" type="text/css">
@@ -456,7 +456,7 @@
 <script src="<?php echo base_url();?>tools/js/bootstrap.min.js" ></script>
 <script src="<?php echo base_url();?>tools/js/owl.carousel.min.js"></script>
 <script src="<?php echo base_url();?>tools/js/owl.thumbs.min.js"></script>
-<!--<script src="<?php echo base_url();?>tools/js/magnific-popup.min.js"></script>-->
+<script src="<?php echo base_url();?>tools/js/magnific-popup.min.js"></script>
 <script src="<?php echo base_url();?>tools/js/ovic-mobile-menu.js"></script>
 <script src="<?php echo base_url();?>tools/js/mobilemenu.min.js"></script>
 <script src="<?php echo base_url();?>tools/js/jquery.plugin-countdown.min.js"></script>
