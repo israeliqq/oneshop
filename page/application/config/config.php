@@ -23,9 +23,9 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 | a PHP script and you can easily do that on your own.
 |
 */
-$config['base_url'] = '';
+$config['base_url'] = 'e11a81c509467d0484a261a92534441e';
 
-/*
+/* La palabra encriptada es B2B ZOFRI
 |--------------------------------------------------------------------------
 | Index File
 |--------------------------------------------------------------------------

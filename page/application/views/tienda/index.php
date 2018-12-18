@@ -1,13 +1,16 @@
 
 <!--Content-->
+
 <div class="main-content home-page main-content-home3">
 	<div class="container">
 		<div class="container-offset">
 			<div class="main-slideshow slideshow3">
+			<h1><?php echo md5('B2B ZOFRI');?></h1>
 				<div class="owl-carousel nav-style1 owl-background" data-autoplay="true" data-nav="true" data-dots="false" data-loop="true" data-slidespeed="800" data-margin="0"  data-responsive = '{"0":{"items":1}, "640":{"items":1}, "768":{"items":1}, "1024":{"items":1}, "1200":{"items":1}}' data-height="400">
 					<div class="slide-item item1 item-background" data-background="<?php echo base_url();?>tools/images/slide7.jpg">
 						<div class="slide-img"><img src="<?php echo base_url();?>tools/images/slide7.jpg" alt=""></div>
 						<div class="slide-content">
+						
 							<h5 class="subtitle">Premium</h5>
 							<h3 class="title">Notebook Corei7</h3>
 							<h5 class="smalltitle">Only: <span class="price"> $226.00</span></h5>
