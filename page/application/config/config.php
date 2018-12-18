@@ -23,7 +23,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 | a PHP script and you can easily do that on your own.
 |
 */
-$config['base_url'] = 'e11a81c509467d0484a261a92534441e';
+$config['base_url'] = '';
 
 /* La palabra encriptada es B2B ZOFRI
 |--------------------------------------------------------------------------
@@ -324,7 +324,7 @@ $config['cache_query_string'] = FALSE;
 | https://codeigniter.com/user_guide/libraries/encryption.html
 |
 */
-$config['encryption_key'] = '';
+$config['encryption_key'] = 'e11a81c509467d0484a261a92534441e';
 
 /*
 |--------------------------------------------------------------------------

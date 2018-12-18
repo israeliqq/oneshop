@@ -9,7 +9,7 @@
 					<table class="shopping-cart-content">
 						<tr class="title">
 							<td class="product-thumb"></td>
-							<td class="product-name">Nombre del Prodcuto</td>
+							<td class="product-name">Nombre del Producto</td>
 							<td class="price">Precio Unitario</td>
 							<td class="quantity-item">Cantidad</td>	
 							<td class="total">SubTotal</td>
