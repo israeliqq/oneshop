@@ -1,7 +1,7 @@
 <?php
 defined('BASEPATH') OR exit('No direct script access allowed');
 
-class Tienda extends CI_Controller {
+class Comprador extends CI_Controller {
 
 	public function __construct(){
 		parent::__construct();
@@ -12,8 +12,7 @@ class Tienda extends CI_Controller {
 	public function index()
 	{
 		$this->layout->setLayout('tienda');
-		$this->layout->view('index');
-		//$this->load->view('tienda/index');
+		$this->layout->view('index2');
 	}
 
 	public function carrito()
@@ -36,11 +35,7 @@ class Tienda extends CI_Controller {
 		$this->layout->view('busqueda');
 	}
 
-	public function registro()
-	{
-		$this->layout->view('registro_usuario');
-		//$this->load->view('tienda/index');
-	}
+
 
 
 

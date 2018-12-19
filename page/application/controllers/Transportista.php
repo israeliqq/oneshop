@@ -12,7 +12,6 @@ class Proveedor extends CI_Controller {
 	public function index()
 	{
 		$this->layout->view('index');
-		//$this->load->view('tienda/index');
 	}
 
 }
