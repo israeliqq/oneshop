@@ -91,8 +91,12 @@
 				</div>
 				<div class="section-content">
 					<div class="tab-content">
+
+					
 						<div id="tab1" class="tab-panel active">
 							<div class="owl-carousel product-list-owl nav-style2 equal-container" data-autoplay="false" data-nav="true" data-dots="false" data-loop="false" data-slidespeed="800" data-margin="0"  data-responsive = '{"0":{"items":1}, "480":{"items":2,"margin":0}, "640":{"items":3,"margin":-1}, "992":{"items":4}, "1200":{"items":5}}'>
+							
+							<?php foreach ($producto as $dato) { ?>
 								<div class="product-item layout1">
 									<div class="product-inner equal-elem">
 										<div class="thumb">
@@ -100,139 +104,26 @@
 											<a href="detail.html" class="thumb-link"><img src="<?php echo base_url();?>tools/images/product1.jpg" alt=""></a>
 										</div>
 										<div class="info">
-											<a href="detail.html" class="product-name">Rubberized Hard Case Older MacBook Pro 13.3"</a>
+											<a href="detail.html" class="product-name"><?php echo $dato->nombre;?> <?php echo $dato->descripcion;?></a>
 											<div class="price">
-												<span>$350.00</span>
+												<span>$<?php echo $dato->precio;?></span>
 											</div>
 										</div>
 										<div class="group-button">
 											<div class="inner">
-												<a href="#" class="add-to-cart"><span class="text">ADD TO CART</span><span class="icon"><i class="fa fa-cart-arrow-down" aria-hidden="true"></i></span></a>
+												<a href="#" class="add-to-cart"><span class="text">AGREGAR AL CARRO</span><span class="icon"><i class="fa fa-cart-arrow-down" aria-hidden="true"></i></span></a>
 												<a href="#" class="compare-button"><i class="fa fa-exchange" aria-hidden="true"></i></a>
 												<a href="#" class="wishlist-button"><i class="fa fa-heart-o" aria-hidden="true"></i></a>
 											</div>
 										</div>
 									</div>
 								</div>
-								<div class="product-item layout1">
-									<div class="product-inner equal-elem">
-										<ul class="group-flash">
-											<li><span class="new flash">NUEVO</span></li>
-										</ul>											
-										<div class="thumb">
-											<a href="#" class="quickview-button"><span class="icon"><i class="fa fa-eye" aria-hidden="true"></i></span> Quick View</a>
-											<a href="detail.html" class="thumb-link"><img src="<?php echo base_url();?>tools/images/product2.jpg" alt=""></a>
-										</div>
-										<div class="info">
-											<a href="detail.html" class="product-name">Smartphone RAM 4 GB New</a>
-											<div class="price">
-												<span >$350.00</span>
-											</div>
-										</div>
-										<div class="group-button">
-											<div class="inner">
-											<a href="#" class="add-to-cart"><span class="text">ADD TO CART</span><span class="icon"><i class="fa fa-cart-arrow-down" aria-hidden="true"></i></span></a>
-											<a href="#" class="compare-button"><i class="fa fa-exchange" aria-hidden="true"></i></a>
-											<a href="#" class="wishlist-button"><i class="fa fa-heart-o" aria-hidden="true"></i></a>
-											</div>
-										</div>
-									</div>
-								</div>
-								<div class="product-item layout1">
-									<div class="product-inner equal-elem">
-										<ul class="group-flash">
-											<li><span class="sale flash">-50%</span></li>
-											<li><span class="best flash">Exito en Ventas</span></li>
-										</ul>
-										<div class="thumb">
-											<a href="#" class="quickview-button"><span class="icon"><i class="fa fa-eye" aria-hidden="true"></i></span> Quick View</a>
-											<a href="detail.html" class="thumb-link"><img src="<?php echo base_url();?>tools/images/product3.jpg" alt=""></a>
-										</div>
-										<div class="info">
-											<a href="detail.html" class="product-name">Fujifilm INSTAX Mini 8 Instant Camera (White)</a>
-											<div class="price">
-												<span class="del">$700.00</span>
-												<span class="ins">$350.00</span>
-											</div>
-										</div>
-										<div class="group-button">
-											<div class="inner">
-											<a href="#" class="add-to-cart"><span class="text">ADD TO CART</span><span class="icon"><i class="fa fa-cart-arrow-down" aria-hidden="true"></i></span></a>
-											<a href="#" class="compare-button"><i class="fa fa-exchange" aria-hidden="true"></i></a>
-											<a href="#" class="wishlist-button"><i class="fa fa-heart-o" aria-hidden="true"></i></a>
-											</div>
-										</div>
-									</div>
-								</div>
-								<div class="product-item layout1">
-									<div class="product-inner equal-elem">
-										<div class="thumb">
-											<a href="#" class="quickview-button"><span class="icon"><i class="fa fa-eye" aria-hidden="true"></i></span> Quick View</a>
-											<a href="detail.html" class="thumb-link"><img src="<?php echo base_url();?>tools/images/product4.jpg" alt=""></a>
-										</div>
-										<div class="info">
-											<a href="detail.html" class="product-name">PC Prox 21.5-inch and 27-inch (Late 2018) reviews</a>
-											<div class="price">
-												<span >$550.00</span>
-											</div>
-										</div>
-										<div class="group-button">
-											<div class="inner">
-											<a href="#" class="add-to-cart"><span class="text">ADD TO CART</span><span class="icon"><i class="fa fa-cart-arrow-down" aria-hidden="true"></i></span></a>
-											<a href="#" class="compare-button"><i class="fa fa-exchange" aria-hidden="true"></i></a>
-											<a href="#" class="wishlist-button"><i class="fa fa-heart-o" aria-hidden="true"></i></a>
-											</div>
-										</div>
-									</div>
-								</div>
-								<div class="product-item layout1">
-									<div class="product-inner equal-elem">
-										<ul class="group-flash">
-											<li><span class="sale flash">-50%</span></li>
-										</ul>
-										<div class="thumb">
-											<a href="#" class="quickview-button"><span class="icon"><i class="fa fa-eye" aria-hidden="true"></i></span> Quick View</a>
-											<a href="detail.html" class="thumb-link"><img src="<?php echo base_url();?>tools/images/product5.jpg" alt=""></a>
-										</div>
-										<div class="info">
-											<a href="detail.html" class="product-name">Best Accessories- SteelSeries NIMBUS Controlle</a>
-											<div class="price">
-												<span class="del">$500.00</span>
-												<span class="ins">$250.00</span>
-											</div>
-										</div>
-										<div class="group-button">
-											<div class="inner">
-											<a href="#" class="add-to-cart"><span class="text">ADD TO CART</span><span class="icon"><i class="fa fa-cart-arrow-down" aria-hidden="true"></i></span></a>
-											<a href="#" class="compare-button"><i class="fa fa-exchange" aria-hidden="true"></i></a>
-											<a href="#" class="wishlist-button"><i class="fa fa-heart-o" aria-hidden="true"></i></a>
-											</div>
-										</div>
-									</div>
-								</div>
-								<div class="product-item layout1">
-									<div class="product-inner equal-elem">
-										<div class="thumb">
-											<a href="#" class="quickview-button"><span class="icon"><i class="fa fa-eye" aria-hidden="true"></i></span> Quick View</a>
-											<a href="detail.html" class="thumb-link"><img src="<?php echo base_url();?>tools/images/product6.jpg" alt=""></a>
-										</div>
-										<div class="info">
-											<a href="detail.html" class="product-name">Headphone </a>
-											<div class="price">
-												<span >$450.00</span>
-											</div>
-										</div>
-										<div class="group-button">
-											<div class="inner">
-											<a href="#" class="add-to-cart"><span class="text">ADD TO CART</span><span class="icon"><i class="fa fa-cart-arrow-down" aria-hidden="true"></i></span></a>
-											<a href="#" class="compare-button"><i class="fa fa-exchange" aria-hidden="true"></i></a>
-											<a href="#" class="wishlist-button"><i class="fa fa-heart-o" aria-hidden="true"></i></a>
-											</div>
-										</div>
-									</div>
-								</div>
+					    	<?php }?>
+
 							</div>
 						</div>
+
+<!--/List Products
 						<div id="tab2" class="tab-panel">
 							<div class="owl-carousel product-list-owl nav-style2 equal-container" data-autoplay="false" data-nav="true" data-dots="false" data-loop="false" data-slidespeed="800" data-margin="0"  data-responsive = '{"0":{"items":1}, "480":{"items":2,"margin":0}, "640":{"items":3,"margin":-1}, "992":{"items":4}, "1200":{"items":5}}'>
 								<div class="product-item layout1">
@@ -375,6 +266,8 @@
 								</div>
 							</div>
 						</div>
+-->
+
 					</div>
 				</div>
 			</div>	

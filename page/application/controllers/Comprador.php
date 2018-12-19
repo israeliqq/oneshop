@@ -12,7 +12,11 @@ class Comprador extends CI_Controller {
 	public function index()
 	{
 		$this->layout->setLayout('tienda');
-		$this->layout->view('index2');
+
+		$producto = $this->producto_model->getProducto();
+		
+
+		$this->layout->view('index2',compact('producto'));
 	}
 
 	public function carrito()
