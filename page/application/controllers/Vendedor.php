@@ -16,6 +16,13 @@ class Vendedor extends CI_Controller {
 		//$this->load->view('tienda/index');
 	}
 
+	public function ingresar_producto()
+	{
+		$this->layout->setLayout('dashboard');
+		$this->layout->view('ingresar_producto');
+		//$this->load->view('tienda/index');
+	}
+
 
 
 

@@ -92,7 +92,6 @@
 				<div class="section-content">
 					<div class="tab-content">
 
-					
 						<div id="tab1" class="tab-panel active">
 							<div class="owl-carousel product-list-owl nav-style2 equal-container" data-autoplay="false" data-nav="true" data-dots="false" data-loop="false" data-slidespeed="800" data-margin="0"  data-responsive = '{"0":{"items":1}, "480":{"items":2,"margin":0}, "640":{"items":3,"margin":-1}, "992":{"items":4}, "1200":{"items":5}}'>
 							
@@ -100,8 +99,8 @@
 								<div class="product-item layout1">
 									<div class="product-inner equal-elem">
 										<div class="thumb">
-											<a href="#" class="quickview-button"><span class="icon"><i class="fa fa-eye" aria-hidden="true"></i></span> Quick View</a>
-											<a href="detail.html" class="thumb-link"><img src="<?php echo base_url();?>tools/images/product1.jpg" alt=""></a>
+											<a href="#" class="quickview-button"><span class="icon"><i class="fa fa-eye" aria-hidden="true"></i></span> Ver Producto</a>
+											<a href="detail.html" class="thumb-link"><img src="<?php echo base_url();?>tools/<?php echo $dato->ruta;?>" alt=""></a>
 										</div>
 										<div class="info">
 											<a href="detail.html" class="product-name"><?php echo $dato->nombre;?> <?php echo $dato->descripcion;?></a>
@@ -111,7 +110,7 @@
 										</div>
 										<div class="group-button">
 											<div class="inner">
-												<a href="#" class="add-to-cart"><span class="text">AGREGAR AL CARRO</span><span class="icon"><i class="fa fa-cart-arrow-down" aria-hidden="true"></i></span></a>
+												<a href="#" class="add-to-cart"><span class="text">AGREGAR</span><span class="icon"><i class="fa fa-cart-arrow-down" aria-hidden="true"></i></span></a>
 												<a href="#" class="compare-button"><i class="fa fa-exchange" aria-hidden="true"></i></a>
 												<a href="#" class="wishlist-button"><i class="fa fa-heart-o" aria-hidden="true"></i></a>
 											</div>

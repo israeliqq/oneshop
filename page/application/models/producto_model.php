@@ -5,7 +5,7 @@ class producto_model extends CI_Model
 
 	public function getProducto()
 	{
-		$sql = "SELECT * FROM `producto` INNER JOIN imagen_producto ON producto.id = imagen_producto.producto_id";
+		$sql = "SELECT DISTINCT producto.proveedor_id, producto.id, producto.nombre, producto.descripcion, producto.precio, producto.stock, imagen_producto.ruta FROM `producto` INNER JOIN imagen_producto ON producto.id = imagen_producto.producto_id";
 		return $this->db->query($sql)->result();
 	}
 
