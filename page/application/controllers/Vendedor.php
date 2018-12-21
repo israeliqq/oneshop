@@ -23,6 +23,13 @@ class Vendedor extends CI_Controller {
 		//$this->load->view('tienda/index');
 	}
 
+	public function orden_compra()
+	{
+		$this->layout->setLayout('dashboard');
+		$this->layout->view('mostrar_oc');
+		//$this->load->view('tienda/index');
+	}
+
 
 
 

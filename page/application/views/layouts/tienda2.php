@@ -8,7 +8,8 @@
 <!-- HOJA DE ESTILOS -->
 <link href="<?php echo base_url();?>tools/css/bootstrap.min.css"          rel="stylesheet" type="text/css">
 <link href="<?php echo base_url();?>tools/css/owl.carousel.min.css"       rel="stylesheet" type="text/css">
-<link href="<?php echo base_url();?>tools/css/font-awesome.min.css"       rel="stylesheet" type="text/css"> 
+<link href="<?php echo base_url();?>tools/css/font-awesome.min.css"       rel="stylesheet" type="text/css">
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymous"> 
 <link href="<?php echo base_url();?>tools/css/animate.min.css"            rel="stylesheet" type="text/css">
 <link href="<?php echo base_url();?>tools/css/magnific-popup.min.css"     rel="stylesheet" type="text/css">
 <link href="<?php echo base_url();?>tools/css/jquery-ui.min.css"          rel="stylesheet" type="text/css">
@@ -429,7 +430,7 @@
             <div class="footer-note">
                 <div class="row">
                     <div class="col-xs-12 col-sm-12 col-md-7 col-lg-8 left-content">
-                        <div class="coppy-right">
+                        <div class="copy-right">
                             <h3 class="content">© Copyright 2018 <span class="site-name"> B2B</span> <span class="text"> Proyecto Usuarios Zofri. </span>Todos los derechos reservados.</h3>
                         </div>
                     </div>

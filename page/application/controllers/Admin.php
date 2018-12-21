@@ -12,12 +12,22 @@ class Admin extends CI_Controller {
 	public function index()
 	{
 		$this->layout->view('index');
-		//$this->load->view('tienda/index');
+	}
+
+	public function login()
+	{
+		$this->layout->view('login');
 	}
 
 	public function registro()
 	{
-		$this->layout->view('registro_usuario');
+		$this->layout->view('registrar');
+	}
+
+	public function ayuda()
+	{
+		$this->layout->setLayout('dashboard');
+		$this->layout->view('ayuda');
 		//$this->load->view('tienda/index');
 	}
 

@@ -1,11 +1,9 @@
 <!DOCTYPE html>
 <html lang="es">
-
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title> B2B - Proyecto Usuarios Zofri</title>
-
 <link rel="shortcut icon" type="image/x-icon" href="<?php echo base_url();?>tools/dash/img/favicon.ico">
 <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.1/css/all.css" integrity="sha384-gfdkjb5BdAXd+lj+gudLWI+BXq4IuLW5IT+brZEZsLFm++aCMlF1V92rMkPaX4PP" crossorigin="anonymous">
 <link rel="stylesheet" href="<?php echo base_url();?>tools/dash/css/bootstrap.min.css">
@@ -25,6 +23,8 @@
 <link rel="stylesheet" href="<?php echo base_url();?>tools/dash/css/calendar/fullcalendar.min.css">
 <link rel="stylesheet" href="<?php echo base_url();?>tools/dash/css/calendar/fullcalendar.print.min.css">
 <link rel="stylesheet" href="<?php echo base_url();?>tools/dash/css/form/all-type-forms.css">
+<link rel="stylesheet" href="<?php echo base_url();?>tools/dash/css/data-table/bootstrap-table.css">
+<link rel="stylesheet" href="<?php echo base_url();?>tools/dash/css/data-table/bootstrap-editable.css">
 <link rel="stylesheet" href="<?php echo base_url();?>tools/dash/css/dropzone/dropzone.css">
 <link rel="stylesheet" href="<?php echo base_url();?>tools/dash/style.css">
 <link rel="stylesheet" href="<?php echo base_url();?>tools/dash/css/responsive.css">
@@ -1004,5 +1004,13 @@
 <script src="<?php echo base_url();?>tools/dash/js/plugins.js"></script>
 <script src="<?php echo base_url();?>tools/dash/js/main.js"></script>
 <script src="<?php echo base_url();?>tools/dash/js/tawk-chat.js"></script>
+<script src="<?php echo base_url();?>tools/dash/js/data-table/bootstrap-table.js"></script>
+<script src="<?php echo base_url();?>tools/dash/js/data-table/tableExport.js"></script>
+<script src="<?php echo base_url();?>tools/dash/js/data-table/data-table-active.js"></script>
+<script src="<?php echo base_url();?>tools/dash/js/data-table/bootstrap-table-editable.js"></script>
+<script src="<?php echo base_url();?>tools/dash/js/data-table/bootstrap-editable.js"></script>
+<script src="<?php echo base_url();?>tools/dash/js/data-table/bootstrap-table-resizable.js"></script>
+<script src="<?php echo base_url();?>tools/dash/js/data-table/colResizable-1.5.source.js"></script>
+<script src="<?php echo base_url();?>tools/dash/js/data-table/bootstrap-table-export.js"></script>
 
 </html>
