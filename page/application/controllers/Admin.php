@@ -19,6 +19,11 @@ class Admin extends CI_Controller {
 		$this->layout->view('login');
 	}
 
+	public function cerrar()
+	{
+		$this->layout->view('index');
+	}
+
 	public function registro()
 	{
 		$this->layout->view('registrar');
@@ -30,5 +35,13 @@ class Admin extends CI_Controller {
 		$this->layout->view('ayuda');
 		//$this->load->view('tienda/index');
 	}
+
+	public function mensajes()
+	{
+		$this->layout->setLayout('dashboard');
+		$this->layout->view('mensajes');
+	}
+
+
 
 }

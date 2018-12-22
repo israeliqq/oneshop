@@ -13,7 +13,7 @@ class Comprador extends CI_Controller {
 	{
 		$this->layout->setLayout('tienda');
 		$producto = $this->producto_model->getProducto();
-		$this->layout->view('index2',compact('producto'));
+		$this->layout->view('index',compact('producto'));
 	}
 
 	public function carrito()
@@ -35,6 +35,25 @@ class Comprador extends CI_Controller {
 	{
 		$this->layout->view('busqueda');
 	}
+
+	public function mis_compras()
+	{
+		$this->layout->setLayout('dashboard');
+		$this->layout->view('listar_compras');
+	}
+
+	public function favoritos()
+	{
+		$this->layout->setLayout('dashboard');
+		$this->layout->view('favoritos');
+	}
+
+	public function orden_compra()
+	{
+		$this->layout->setLayout('dashboard');
+		$this->layout->view('mostrar_oc');
+	}
+
 
 
 

@@ -1,15 +1,14 @@
-
 <div class="breadcome-area">
     <div class="container-fluid">
         <div class="breadcome-list single-page-breadcome">
             <div class="row">
                 <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
-                    <h3>Ordenes de Compra</h3>
+                    <h3>Mis Favoritos</h3>
                     <hr>
                 </div>
                 <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
-                    <div class="sparkline13-graph">
-                        <div class="product-payment-inner-st datatable-dashv1-list custom-datatable-overright">
+                    <div class="devit-card-custom">
+                        <div class="datatable-dashv1-list custom-datatable-overright">
                             <div id="toolbar">
                                 <select class="form-control dt-tb">
                                     <option value="">Export Basic</option>
@@ -22,14 +21,14 @@
                                 <thead>
                                     <tr>
                                         <th data-field="state" data-checkbox="true"></th>
-                                        <th data-field="id">Nº Orden</th>
-                                        <th data-field="name" data-editable="true">Destinatario</th>
-                                        <th data-field="email" data-editable="true">Email</th>
-                                        <th data-field="phone" data-editable="true">Dirección</th>
-                                        <th data-field="complete">Teléfono</th>
-                                        <th data-field="task" data-editable="true">Estado</th>
-                                        <th data-field="date" data-editable="true">Fecha</th>
-                                        <th data-field="price" data-editable="true">Precio Total</th>
+                                        <th data-field="id">ID</th>
+                                        <th data-field="name" data-editable="true">Titulo</th>
+                                        <th data-field="email" data-editable="true">Descripción</th>
+                                        <th data-field="phone" data-editable="true">Precio</th>
+                                        <th data-field="complete">Stock</th>
+                                        <th data-field="task" data-editable="true">Proveedor</th>
+                                        <th data-field="date" data-editable="true">Categoría</th>
+                                        <th data-field="price" data-editable="true">Evaluación</th>
                                         <th data-field="action">Acciones</th>
                                     </tr>
                                 </thead>
@@ -50,57 +49,15 @@
                                     </tr>
                                     <tr>
                                         <td></td>
-                                        <td>2</td>
-                                        <td>Graphic Design</td>
-                                        <td>fox@itpark.com</td>
-                                        <td>+8801762067304</td>
-                                        <td class="datatable-ct"><span class="pie">230/360</span>
-                                        </td>
-                                        <td>70%</td>
-                                        <td>fab 2, 2017</td>
-                                        <td>$8756</td>
-                                        <td class="datatable-ct"><i class="fa fa-check"></i>
-                                        </td>
-                                    </tr>
-                                    <tr>
-                                        <td></td>
-                                        <td>3</td>
-                                        <td>Software Development</td>
-                                        <td>gumre@hash.com</td>
-                                        <td>+8801862067308</td>
-                                        <td class="datatable-ct"><span class="pie">0.42/1.461</span>
-                                        </td>
-                                        <td>5%</td>
-                                        <td>Seb 5, 2017</td>
-                                        <td>$9875</td>
-                                        <td class="datatable-ct"><i class="fa fa-check"></i>
-                                        </td>
-                                    </tr>
-                                    <tr>
-                                        <td></td>
-                                        <td>19</td>
-                                        <td>Backend</td>
-                                        <td>john@range.com</td>
-                                        <td>+8801962067303</td>
+                                        <td>13</td>
+                                        <td>Education</td>
+                                        <td>john@example.com</td>
+                                        <td>+8801962067471</td>
                                         <td class="datatable-ct"><span class="pie">2,7</span>
                                         </td>
                                         <td>15%</td>
-                                        <td>Feb 9, 2014</td>
-                                        <td>$564554</td>
-                                        <td class="datatable-ct"><i class="fa fa-check"></i>
-                                        </td>
-                                    </tr>
-                                    <tr>
-                                        <td></td>
-                                        <td>20</td>
-                                        <td>Java Advance</td>
-                                        <td>lamon@ghs.com</td>
-                                        <td>+8801962067302</td>
-                                        <td class="datatable-ct"><span class="pie">2,7</span>
-                                        </td>
-                                        <td>15%</td>
-                                        <td>July 6, 2014</td>
-                                        <td>$789889</td>
+                                        <td>Feb 6, 2016</td>
+                                        <td>$456456</td>
                                         <td class="datatable-ct"><i class="fa fa-check"></i>
                                         </td>
                                     </tr>
@@ -127,3 +84,5 @@
         </div>
     </div>
 </div>
+
+
