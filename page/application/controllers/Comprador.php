@@ -54,9 +54,4 @@ class Comprador extends CI_Controller {
 		$this->layout->view('mostrar_oc');
 	}
 
-
-
-
-
-
 }

@@ -52,6 +52,18 @@ class Vendedor extends CI_Controller {
 	}
 
 
+	public function facturacion()
+	{
+		$this->layout->setLayout('dashboard');
+		$this->layout->view('facturacion');
+	}
+
+	public function reputacion()
+	{
+		$this->layout->setLayout('dashboard');
+		$this->layout->view('reputacion');
+	}
+
 
 
 }

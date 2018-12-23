@@ -20,7 +20,7 @@
 			<div class="col-lg-3 col-md-6 col-sm-6 col-xs-12">
 				<div class="analytics-sparkle-line reso-mg-b-30">
 					<div class="analytics-content">
-						<h5>Computer Technologies</h5>
+						<h5>Producto Publicados</h5>
 						<h2>$<span class="counter">5000</span> <span class="tuition-fees">Tuition Fees</span></h2>
 						<span class="text-success">20%</span>
 						<div class="progress m-b-0">
@@ -32,7 +32,7 @@
 			<div class="col-lg-3 col-md-6 col-sm-6 col-xs-12">
 				<div class="analytics-sparkle-line reso-mg-b-30">
 					<div class="analytics-content">
-						<h5>Accounting Technologies</h5>
+						<h5>Ventas Concretadas</h5>
 						<h2>$<span class="counter">3000</span> <span class="tuition-fees">Tuition Fees</span></h2>
 						<span class="text-danger">30%</span>
 						<div class="progress m-b-0">
@@ -44,7 +44,7 @@
 			<div class="col-lg-3 col-md-6 col-sm-6 col-xs-12">
 				<div class="analytics-sparkle-line reso-mg-b-30 table-mg-t-pro dk-res-t-pro-30">
 					<div class="analytics-content">
-						<h5>Electrical Engineering</h5>
+						<h5>OC Pendientes</h5>
 						<h2>$<span class="counter">2000</span> <span class="tuition-fees">Tuition Fees</span></h2>
 						<span class="text-info">60%</span>
 						<div class="progress m-b-0">
@@ -56,7 +56,7 @@
 			<div class="col-lg-3 col-md-6 col-sm-6 col-xs-12">
 				<div class="analytics-sparkle-line table-mg-t-pro dk-res-t-pro-30">
 					<div class="analytics-content">
-						<h5>Chemical Engineering</h5>
+						<h5>OC Terminadas</h5>
 						<h2>$<span class="counter">3500</span> <span class="tuition-fees">Tuition Fees</span></h2>
 						<span class="text-inverse">80%</span>
 						<div class="progress m-b-0">
@@ -77,7 +77,7 @@
 					<i class="fa fa-facebook"></i>
 					<div class="social-edu-ctn">
 						<h3>50k Likes</h3>
-						<p>You main list growing</p>
+						<p>RRSS Facebook</p>
 					</div>
 				</div>
 			</div>
@@ -86,7 +86,7 @@
 					<i class="fa fa-twitter"></i>
 					<div class="social-edu-ctn">
 						<h3>30k followers</h3>
-						<p>You main list growing</p>
+						<p>RRSS Twitter</p>
 					</div>
 				</div>
 			</div>
@@ -95,16 +95,16 @@
 					<i class="fa fa-linkedin"></i>
 					<div class="social-edu-ctn">
 						<h3>7k Connections</h3>
-						<p>You main list growing</p>
+						<p>RRSS Linkedin</p>
 					</div>
 				</div>
 			</div>
 			<div class="col-lg-3 col-md-6 col-sm-6 col-xs-12">
 				<div class="social-media-edu youtube-cl res-mg-t-30 res-tablet-mg-t-30 dk-res-t-pro-30">
-					<i class="fa fa-youtube"></i>
+					<i class="fa fa-instagram"></i>
 					<div class="social-edu-ctn">
 						<h3>50k Subscribers</h3>
-						<p>You main list growing</p>
+						<p>RRSS Instagram</p>
 					</div>
 				</div>
 			</div>
@@ -121,8 +121,8 @@
 					</div>
 					<div class="single-product-text">
 						<img src="<?php echo base_url();?>tools/dash/img/product/pro4.jpg" alt="">
-						<h4><a class="cards-hd-dn" href="#">Angela Dominic</a></h4>
-						<h5>Web Designer & Developer</h5>
+						<h4><a class="cards-hd-dn" href="#">Nombre Proveedor</a></h4>
+						<h5>Ventas e importaciones</h5>
 						<p class="ctn-cards">Lorem ipsum dolor sit amet, this is a consectetur adipisicing elit</p>
 						<a class="follow-cards" href="#">Follow</a>
 						<div class="row">
@@ -151,13 +151,13 @@
 			<div class="col-lg-4 col-md-6 col-sm-6 col-xs-12">
 				<div class="single-review-st-item res-mg-t-30 table-mg-t-pro-n">
 					<div class="single-review-st-hd">
-						<h2>Reviews</h2>
+						<h2>Mejores Puntuaciones</h2>
 					</div>
 					<div class="single-review-st-text">
 						<img src="<?php echo base_url();?>tools/dash/img/notification/1.jpg" alt="">
 						<div class="review-ctn-hf">
-							<h3>Sarah Graves</h3>
-							<p>Highly recommend</p>
+							<h3>Producto 1</h3>
+							<p>Descripción 1</p>
 						</div>
 						<div class="review-item-rating">
 							<i class="educate-icon educate-star"></i>
@@ -170,8 +170,8 @@
 					<div class="single-review-st-text">
 						<img src="<?php echo base_url();?>tools/dash/img/notification/2.jpg" alt="">
 						<div class="review-ctn-hf">
-							<h3>Garbease sha</h3>
-							<p>Awesome Pro</p>
+							<h3>Producto 2</h3>
+							<p>Descripción 2</p>
 						</div>
 						<div class="review-item-rating">
 							<i class="educate-icon educate-star"></i>
@@ -184,8 +184,8 @@
 					<div class="single-review-st-text">
 						<img src="<?php echo base_url();?>tools/dash/img/notification/3.jpg" alt="">
 						<div class="review-ctn-hf">
-							<h3>Gobetro pro</h3>
-							<p>Great Website</p>
+							<h3>Producto 3</h3>
+							<p>Descripción 3</p>
 						</div>
 						<div class="review-item-rating">
 							<i class="educate-icon educate-star"></i>
@@ -198,8 +198,8 @@
 					<div class="single-review-st-text">
 						<img src="<?php echo base_url();?>tools/dash/img/notification/4.jpg" alt="">
 						<div class="review-ctn-hf">
-							<h3>Siam Graves</h3>
-							<p>That's Good</p>
+							<h3>Producto 4</h3>
+							<p>Descripción 5</p>
 						</div>
 						<div class="review-item-rating">
 							<i class="educate-icon educate-star"></i>
@@ -212,8 +212,8 @@
 					<div class="single-review-st-text">
 						<img src="<?php echo base_url();?>tools/dash/img/notification/5.jpg" alt="">
 						<div class="review-ctn-hf">
-							<h3>Sarah Graves</h3>
-							<p>Highly recommend</p>
+							<h3>Producto 5</h3>
+							<p>Descripción 5</p>
 						</div>
 						<div class="review-item-rating">
 							<i class="educate-icon educate-star"></i>
@@ -226,8 +226,8 @@
 					<div class="single-review-st-text">
 						<img src="<?php echo base_url();?>tools/dash/img/notification/6.jpg" alt="">
 						<div class="review-ctn-hf">
-							<h3>Julsha Grav</h3>
-							<p>Sei Hoise bro</p>
+							<h3>Producto 6</h3>
+							<p>Descripción 6</p>
 						</div>
 						<div class="review-item-rating">
 							<i class="educate-icon educate-star"></i>
@@ -299,7 +299,7 @@
 		<div class="row">
 			<div class="col-lg-4 col-md-6 col-sm-6 col-xs-12">
 				<div class="white-box">
-					<h3 class="box-title">Browser Status</h3>
+					<h3 class="box-title">Categorías más vendidas</h3>
 					<ul class="basic-list">
 						<li>Google Chrome <span class="pull-right label-danger label-1 label">95.8%</span></li>
 						<li>Mozila Firefox <span class="pull-right label-purple label-2 label">85.8%</span></li>
@@ -313,7 +313,7 @@
 			</div>
 			<div class="col-lg-4 col-md-6 col-sm-6 col-xs-12">
 				<div class="white-box res-mg-t-30 table-mg-t-pro-n">
-					<h3 class="box-title">Visits from countries</h3>
+					<h3 class="box-title">Proveniencia Compras</h3>
 					<ul class="country-state">
 						<li>
 							<h2><span class="counter">1250</span></h2> <small>From Australia</small>
@@ -357,7 +357,7 @@
 				<div class="courses-inner res-mg-t-30 table-mg-t-pro-n tb-sm-res-d-n dk-res-t-d-n">
 					<div class="courses-title">
 						<a href="#"><img src="<?php echo base_url();?>tools/dash/img/courses/1.jpg" alt="" /></a>
-						<h2>Apps Development</h2>
+						<h2>Estado Facturación</h2>
 					</div>
 					<div class="courses-alaltic">
 						<span class="cr-ic-r"><span class="course-icon"><i class="fa fa-clock"></i></span> 1 Year</span>

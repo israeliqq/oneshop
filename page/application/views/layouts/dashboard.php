@@ -49,7 +49,7 @@
                         </a>
                     </li>
                     <li>
-                        <a title="Landing Page" href="<?php echo base_url();?>vendedor/resumen" aria-expanded="false">
+                        <a title="Landing Page" href="<?php echo base_url();?>vendedor/facturacion" aria-expanded="false">
                             <i class="fas fa-file-invoice-dollar"></i> <span class="mini-click-non"> &nbspFacturación</span>
                         </a>                    
                     </li>
@@ -58,7 +58,7 @@
                         </a>
                     </li>
                     <li>
-                        <a title="Landing Page" href="<?php echo base_url();?>vendedor/resumen" aria-expanded="false">
+                        <a title="Landing Page" href="<?php echo base_url();?>vendedor/reputacion" aria-expanded="false">
                         <i class="far fa-grin-stars"></i> <span class="mini-click-non"> Reputación</span>
                         </a>                    
                     </li>
@@ -128,9 +128,11 @@
                                 <div class="col-lg-6 col-md-7 col-sm-6 col-xs-12">
                                     <div class="header-top-menu tabl-d-n">
                                         <ul class="nav navbar-nav mai-top-nav">
-                                            <li class="nav-item"><a href="<?php echo base_url();?>vendedor/resumen" class="nav-link">Home</a>
+                                            <li class="nav-item">
+                                                <a href="<?php echo base_url();?>comprador" class="nav-link">Tienda</a>
                                             </li>
-                                            <li class="nav-item"><a href="<?php echo base_url();?>vendedor" class="nav-link">Tienda</a>
+                                            <li class="nav-item">
+                                                <a href="<?php echo base_url();?>vendedor/reputación" class="nav-link">Reputación</a>
                                             </li>
                                             <li class="nav-item dropdown res-dis-nn">
                                                 <a href="#" data-toggle="dropdown" role="button" aria-expanded="false" class="nav-link dropdown-toggle">Productos <span class="angle-down-topmenu"><i class="fa fa-angle-down"></i></span></a>
