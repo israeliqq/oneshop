@@ -26,7 +26,20 @@ class Admin extends CI_Controller {
 
 	public function registro()
 	{
-		$this->layout->view('registrar');
+		if (isset($_POST['btnRegistrar'])){
+			$producto = array(	
+				'nombre' 			=> $_POST['titulo'],
+				'descripcion' 		=> $_POST['descripcion'],
+				'precio' 			=> $_POST['precio'],
+				'stock' 			=> $_POST['stock'],
+				'subcategoria_id' 	=> $_POST['categoria'],
+				'proveedor_id'		=> $_POST['proveedor']
+			);
+			$bandera = $this->producto_model->InsertProducto($producto);
+			$this->layout->view('listar_productos');
+		}else{
+			$this->layout->view('ingresar_producto');
+		}
 	}
 
 	public function ayuda()
